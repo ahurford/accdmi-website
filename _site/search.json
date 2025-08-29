@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Atlantic Canada Center for Disease Ecology Modelling (ACCDMi)",
+    "section": "",
+    "text": "Welcome to ACCDMi\nThe Atlantic Canada Center for Disease Ecology Modelling (ACCDMi) is a multidisciplinary research initiative to advance the science and application of infectious disease modelling to improve human and animal health.\nWe consolidate expertise from five AARMS member institutions, representing all four Atlantic Canadian provinces.\nACCDMi supports visibility, capacity-building, and collaboration in infectious disease modelling so stakeholders, public health professionals, and experts in adjacent disciplines can discover and engage our experts in applied problems."
+  },
+  {
+    "objectID": "activities.html",
+    "href": "activities.html",
+    "title": "Activities",
+    "section": "",
+    "text": "Proposed Activities\n\nACCDMi Website — hosted via GitHub Pages.\n\nCollaboration Fund — support for trainee projects.\n\nSemiannual virtual research and networking events.\n\nBetween-institution collaboration and colloquia.\n\nLocal outreach — courses, materials, workshops.\n\nAARMS Summer School 2027 — hosted at Bonne Bay Marine Station."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Selected Publications\n\nMartignoni, M., Arino, J., Hurford, A. 2024. Is SARS-CoV-2 elimination or mitigation best? R Soc Open Sci 11(6), 240186.\n\nOgden, N.H., Hurford, A., Li, M., et al. 2024. Mathematical modelling for pandemic preparedness in Canada. Can Comm Dis Rep 50(10).\n\nHurford, A., Martignoni, M., Loredo-Osti, J.C., et al. 2023. Pandemic preparedness for regions implementing an elimination strategy. J Theor Biol."
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "CRG Members",
+    "section": "",
+    "text": "Amy Hurford — Memorial University, Mathematics and Statistics; Biology\n\nJC Loredo-Osti — Memorial University, Mathematics and Statistics\n\nXiaoqiang Zhao — Memorial University, Mathematics and Statistics\n\nYuan Yuan — Memorial University, Mathematics and Statistics\n\nChunhua Ou — Memorial University, Mathematics and Statistics\n\nSanjeev Seahra — University of New Brunswick, Mathematics and Statistics\n\nJames Watmough — University of New Brunswick, Mathematics and Statistics\n\nLin Wang — University of New Brunswick, Mathematics and Statistics\n\nMatthew Betti — Mount Allison University, Mathematics and Computer Science\n\nCindy Feng — Dalhousie University, Community Health and Epidemiology; Mathematics and Statistics\n\nEdward Susko — Dalhousie University, Mathematics and Statistics\n\nLam Ho — Dalhousie University, Mathematics and Statistics\n\nJavier Sanchez — University of Prince Edward Island, Centre for Veterinary Epidemiological Research\n\n\n\n\n\nJulien Arino — University of Manitoba, Mathematics\n\nMichael Li — Public Health Agency of Canada\n\nKarsten Kirkeby — University of Copenhagen, Denmark\n\nHector Marina — Swedish University of Agricultural Sciences, Sweden\n\nMichael Plank — University of Canterbury, New Zealand"
+  },
+  {
+    "objectID": "members.html#from-aarms-member-universities",
+    "href": "members.html#from-aarms-member-universities",
+    "title": "CRG Members",
+    "section": "",
+    "text": "Amy Hurford — Memorial University, Mathematics and Statistics; Biology\n\nJC Loredo-Osti — Memorial University, Mathematics and Statistics\n\nXiaoqiang Zhao — Memorial University, Mathematics and Statistics\n\nYuan Yuan — Memorial University, Mathematics and Statistics\n\nChunhua Ou — Memorial University, Mathematics and Statistics\n\nSanjeev Seahra — University of New Brunswick, Mathematics and Statistics\n\nJames Watmough — University of New Brunswick, Mathematics and Statistics\n\nLin Wang — University of New Brunswick, Mathematics and Statistics\n\nMatthew Betti — Mount Allison University, Mathematics and Computer Science\n\nCindy Feng — Dalhousie University, Community Health and Epidemiology; Mathematics and Statistics\n\nEdward Susko — Dalhousie University, Mathematics and Statistics\n\nLam Ho — Dalhousie University, Mathematics and Statistics\n\nJavier Sanchez — University of Prince Edward Island, Centre for Veterinary Epidemiological Research"
+  },
+  {
+    "objectID": "members.html#from-other-institutions",
+    "href": "members.html#from-other-institutions",
+    "title": "CRG Members",
+    "section": "",
+    "text": "Julien Arino — University of Manitoba, Mathematics\n\nMichael Li — Public Health Agency of Canada\n\nKarsten Kirkeby — University of Copenhagen, Denmark\n\nHector Marina — Swedish University of Agricultural Sciences, Sweden\n\nMichael Plank — University of Canterbury, New Zealand"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Themes",
+    "section": "",
+    "text": "ACCDMi researchers use data science, applied mathematics, statistics, and AI to advance disease ecology modelling.\n\n\nProjects: Avian influenza models, spillover risk, amphibian disease ecology.\n\n\n\nProjects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions.\n\n\n\nProjects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.\n\n\n\nProjects: Online outreach resources, local outreach events, and training workshops."
+  },
+  {
+    "objectID": "research.html#theme-1.-one-health-and-zoonotic-infections",
+    "href": "research.html#theme-1.-one-health-and-zoonotic-infections",
+    "title": "Research Themes",
+    "section": "",
+    "text": "Projects: Avian influenza models, spillover risk, amphibian disease ecology."
+  },
+  {
+    "objectID": "research.html#theme-2.-stochastic-modelling-epidemic-forecasting-and-small-jurisdictions",
+    "href": "research.html#theme-2.-stochastic-modelling-epidemic-forecasting-and-small-jurisdictions",
+    "title": "Research Themes",
+    "section": "",
+    "text": "Projects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions."
+  },
+  {
+    "objectID": "research.html#theme-3.-dynamical-systems-and-control-in-disease-ecology",
+    "href": "research.html#theme-3.-dynamical-systems-and-control-in-disease-ecology",
+    "title": "Research Themes",
+    "section": "",
+    "text": "Projects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies."
+  },
+  {
+    "objectID": "research.html#theme-4.-modelling-education",
+    "href": "research.html#theme-4.-modelling-education",
+    "title": "Research Themes",
+    "section": "",
+    "text": "Projects: Online outreach resources, local outreach events, and training workshops."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About ACCDMi",
+    "section": "",
+    "text": "About\nThe Atlantic Canada Center for Disease Ecology Modelling (ACCDMi) will consolidate and describe our expertise. Programs will build relationships and capacity through training, outreach, and collaborative partnerships.\nWe focus on:\n\nImproving analyses by incorporating efficient algorithms, modelling approaches, and perspectives from applied mathematics and statistics.\n\nSupporting small jurisdictions that face unique modelling needs.\n\nAdvocating for mathematics and statistics to be recognized as essential in applied health sciences.\n\nACCDMi is a step toward establishing a national modelling institute and ensuring that Atlantic Canada is a strong contributor to future national initiatives."
+  }
+]

@@ -18,10 +18,6 @@ website:
         text: Publications
       - href: activities.qmd
         text: Activities
-      - href: funding.qmd
-        text: Funding
-      - href: references.qmd
-        text: References
   page-footer:
     center: "© 2025 ACCDMi"
 
