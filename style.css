@@ -1,0 +1,9 @@
+/* Custom styling */
+h1, h2, h3 {
+  color: #003366;
+}
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+}
