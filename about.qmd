@@ -1,0 +1,15 @@
+---
+title: "About ACCDMi"
+---
+
+# About
+
+The Atlantic Canada Center for Disease Ecology Modelling (ACCDMi) will consolidate and describe our expertise. Programs will build relationships and capacity through training, outreach, and collaborative partnerships.  
+
+We focus on:
+
+- **Improving analyses** by incorporating efficient algorithms, modelling approaches, and perspectives from applied mathematics and statistics.  
+- **Supporting small jurisdictions** that face unique modelling needs.  
+- **Advocating for mathematics and statistics** to be recognized as essential in applied health sciences.  
+
+ACCDMi is a step toward establishing a **national modelling institute** and ensuring that Atlantic Canada is a strong contributor to future national initiatives.
