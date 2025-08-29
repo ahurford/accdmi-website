@@ -1,0 +1,13 @@
+---
+title: "Publications"
+---
+
+# Selected Publications
+
+1. Martignoni, M., Arino, J., Hurford, A. 2024. *Is SARS-CoV-2 elimination or mitigation best?* R Soc Open Sci 11(6), 240186.  
+2. Ogden, N.H., Hurford, A., Li, M., et al. 2024. *Mathematical modelling for pandemic preparedness in Canada.* Can Comm Dis Rep 50(10).  
+3. Hurford, A., Martignoni, M., Loredo-Osti, J.C., et al. 2023. *Pandemic preparedness for regions implementing an elimination strategy.* J Theor Biol.  
+4. Martignoni, M., Mohammadi, Z., Loredo-Osti, J.C., Hurford, A. 2023. *Asymptomatic rates and underreporting in school children.* Can Comm Dis Rep 49(4).  
+5. Hurford, A., Watmough, J. 2022. *Don’t wait, re-escalate: delayed action results in longer duration of COVID-19.* Springer-Nature.  
+6. Hurford, A., Rahman, P., Loredo-Osti, J.C. 2021. *Impact of travel restrictions on COVID-19 cases in NL.* R Soc Open Sci 8(6), 202266.  
+7. Hurford, A., Wang, X., Zhao, X. 2019. *Regional climate affects salmon lice dynamics.* Proc Roy Soc B 286.  
