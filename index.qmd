@@ -10,4 +10,4 @@ ACCDMi will support the visibility of Atlantic Canada’s expertise in infectiou
 ACCDMi programs will build relationships and capacity through training, outreach, and collaborative partnerships to improve analyses by incorporating efficient algorithms, modelling approaches, and the perspectives of applied mathematics and statistics.
 
 # News
-- We need a logo! You are a graphic designer and a student at Memorial University, Dalhousie, Mount Allison, or the University of Prince Edward Island please consider applying desing our logo. Expressions of interest are due by September 19. Details here.
+- We need a logo! You are a graphic designer and a student at Memorial University, Dalhousie, Mount Allison, or the University of Prince Edward Island please consider applying desing our logo. Expressions of interest are due by September 19. [Details here](https://ahurford.github.io/accdmi-website/logo-app.html).
