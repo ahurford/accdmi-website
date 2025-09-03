@@ -4,12 +4,10 @@ project:
 website:
   title: "Atlantic Canada Center for Disease Ecology Modelling (ACCDMi)"
   navbar:
-    background: primary
+    background:  "#440154"
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: members.qmd
         text: Members
       - href: research.qmd
@@ -18,8 +16,6 @@ website:
         text: Publications
       - href: activities.qmd
         text: Activities
-  page-footer:
-    center: "© 2025 ACCDMi"
 
 format:
   html:

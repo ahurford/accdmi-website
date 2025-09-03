@@ -1,13 +1,12 @@
 ---
-title: "Atlantic Canada Center for Disease Ecology Modelling (ACCDMi)"
+title: "Atlantic Canada Center for Disease Ecology Modelling"
 format: html
 ---
 
-# Welcome to ACCDMi
+The Atlantic Canada Center for Disease Ecology Modelling (ACCDMi) is a multidisciplinary research initiative to advance the science and application of infectious disease modelling to improve human and animal health.
 
-The **Atlantic Canada Center for Disease Ecology Modelling (ACCDMi)** is a multidisciplinary research initiative to advance the science and application of infectious disease modelling to improve human and animal health.  
+ACCDMi will support the visibility of Atlantic Canada’s expertise in infectious disease modelling so that stakeholders, public health professionals, and experts in adjacent disciplines can discover the substantial expertise of mathematicians and statisticians and engage our experts in applied problems.
 
-We consolidate expertise from five AARMS member institutions, representing all four Atlantic Canadian provinces.  
+ACCDMi programs will build relationships and capacity through training, outreach, and collaborative partnerships to improve analyses by incorporating efficient algorithms, modelling approaches, and the perspectives of applied mathematics and statistics.
 
-ACCDMi supports visibility, capacity-building, and collaboration in infectious disease modelling so stakeholders, public health professionals, and experts in adjacent disciplines can discover and engage our experts in applied problems.  
-
+# News
