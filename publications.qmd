@@ -2,9 +2,12 @@
 title: "Publications"
 ---
 
-# Selected Publications
 Publications that highlight the expertise of ACCDMi members.
 
-1. Martignoni, M., Arino, J., Hurford, A. 2024. *Is SARS-CoV-2 elimination or mitigation best?* R Soc Open Sci 11(6), 240186.  
-2. Ogden, N.H., Hurford, A., Li, M., et al. 2024. *Mathematical modelling for pandemic preparedness in Canada.* Can Comm Dis Rep 50(10).  
-3. Hurford, A., Martignoni, M., Loredo-Osti, J.C., et al. 2023. *Pandemic preparedness for regions implementing an elimination strategy.* J Theor Biol.  
+-  Martignoni, M., Arino, J., Hurford, A. 2024. [*Is SARS-CoV-2 elimination or mitigation best?*](https://royalsocietypublishing.org/doi/10.1098/rsos.240186) R Soc Open Sci 11(6), 240186.  
+
+- Ogden, N.H., Hurford, A., Li, M., et al. 2024. [*Mathematical modelling for pandemic preparedness in Canada.*](https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2024-50/issue-10-october-2024/mathematical-modelling-pandemic-preparedness.html) Can Comm Dis Rep 50(10).  
+
+- Hurford, A., Martignoni, M., Loredo-Osti, J.C., et al. 2023. [*Pandemic preparedness for regions implementing an elimination strategy.*](https://pubmed.ncbi.nlm.nih.gov/36584747/) J Theor Biol.  
+
+Publications by other ACCDMi members are to be added.

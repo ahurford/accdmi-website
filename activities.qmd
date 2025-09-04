@@ -6,11 +6,12 @@ title: "Activities"
 -  ACCDMi symposium.  
 
 # October 2025
--  Hurford and Mack research trip.  
+-  Hurford and Mack research trip.
+-  Advertise 2026 ACCDMi scholarships. 
 
 # September 2025.  
-
--  Apply for ACCDMi scholarships.
+-  Solicit 2025 ACCDMi scholarship applications.  
 -  ACCDMi Members meeting.  
 -  ACCDMi trainee members identified.
-- Create repository for modelling education resources.  
+- Launch website.
+-  Create repository for modelling education resources.  
