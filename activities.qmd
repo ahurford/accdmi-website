@@ -2,11 +2,15 @@
 title: "Activities"
 ---
 
-# Proposed Activities
+# December 2025
+-  ACCDMi symposium.  
 
-1. **ACCDMi Website** — hosted via GitHub Pages.  
-2. **Collaboration Fund** — support for trainee projects.  
-3. **Semiannual virtual research and networking events**.  
-4. **Between-institution collaboration and colloquia**.  
-5. **Local outreach** — courses, materials, workshops.  
-6. **AARMS Summer School 2027** — hosted at Bonne Bay Marine Station.  
+# October 2025
+-  Hurford and Mack research trip.  
+
+# September 2025.  
+
+-  Apply for ACCDMi scholarships.
+-  ACCDMi Members meeting.  
+-  ACCDMi trainee members identified.
+- Create repository for modelling education resources.  

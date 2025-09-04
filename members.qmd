@@ -2,26 +2,37 @@
 title: "CRG Members"
 ---
 
-# CRG Members
+## AARMS member universities
+### Memorial University
+**[Amy Hurford](https://ahurford.github.io/website/#dr.-amy-hurford)** (Director), Biology Department and Department of Mathematics and Statistics.  
+**[JC Loredo‑Osti](https://www.mun.ca/math/our-people/faculty/j-concepcion-loredo-osti/)**, Department of Mathematics and Statistics.  
+**[Chunhua Ou](https://www.math.mun.ca/~ou/)**, Department of Mathematics and Statistics.  
+**[Xiaoqiang Zhao](https://www.math.mun.ca/~zhao/)**, Department of Mathematics and Statistics.   
+**[Yuan Yuan](https://www.math.mun.ca/~yyuan/)**, Department of Mathematics and Statistics.   
 
-## From AARMS member universities
-- Amy Hurford — Memorial University, Mathematics and Statistics; Biology  
-- JC Loredo-Osti — Memorial University, Mathematics and Statistics  
-- Xiaoqiang Zhao — Memorial University, Mathematics and Statistics  
-- Yuan Yuan — Memorial University, Mathematics and Statistics  
-- Chunhua Ou — Memorial University, Mathematics and Statistics  
-- Sanjeev Seahra — University of New Brunswick, Mathematics and Statistics  
-- James Watmough — University of New Brunswick, Mathematics and Statistics  
-- Lin Wang — University of New Brunswick, Mathematics and Statistics  
-- Matthew Betti — Mount Allison University, Mathematics and Computer Science  
-- Cindy Feng — Dalhousie University, Community Health and Epidemiology; Mathematics and Statistics  
-- Edward Susko — Dalhousie University, Mathematics and Statistics  
-- Lam Ho — Dalhousie University, Mathematics and Statistics  
-- Javier Sanchez — University of Prince Edward Island, Centre for Veterinary Epidemiological Research  
+### University of New Brunwick
+**[Sanjeev Seahra](http://sanjeev.seahra.ca)**,  Department of Mathematics and Statistics.   
+**[Lin Wang](https://www.unb.ca/faculty-staff/directory/science-fr-math/wang-lin.html)**, Department of Mathematics and Statistics.   
+**[James Watmough](https://watmough.ext.unb.ca/)**, Department of Mathematics and Statistics.  
 
-## From other institutions
-- Julien Arino — University of Manitoba, Mathematics  
-- Michael Li — Public Health Agency of Canada  
-- Karsten Kirkeby — University of Copenhagen, Denmark  
-- Hector Marina — Swedish University of Agricultural Sciences, Sweden  
-- Michael Plank — University of Canterbury, New Zealand  
+### Mount Allison University 
+**[Matthew Betti](https://mta.ca/directory/matthew-betti)**, Department of Mathematics and Computer Science
+
+### Dalhousie University
+**[Cindy Feng](https://medicine.dal.ca/departments/department-sites/community-health/our-people/our-faculty/cindy-feng.html)**, Department of Community Health and Epidemiology and Department of Mathematics and Statistics.  
+**[Edward Susko](https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/statistics/ed_susko.html)**, Department of Mathematics and Statistics.   
+**[Lam Ho](https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/statistics/lam-ho.html)**, Department of Mathematics and Statistics.   
+
+###  University of Prince Edward Island
+**[Javier Sanchez](https://islandscholar.ca/people/jsanchez)**, Health Management.   
+
+---
+
+### Other Institutions
+
+**Julien Arino**, University of Manitoba.  
+**Michael Li**, Public Health Agency of Canada.   
+**Karsten Kirkeby**, University of Copenhagen.  
+**Hector Marina**, Swedish University of Agricultural Sciences.  
+**Michael Plank**, University of Canterbury.  
+ 
