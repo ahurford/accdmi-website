@@ -10,6 +10,6 @@ ACCDMi will support the visibility of Atlantic Canada’s expertise in infectiou
 ACCDMi programs will build relationships and capacity through training, outreach, and collaborative partnerships to improve analyses by incorporating efficient algorithms, modelling approaches, and the perspectives of applied mathematics and statistics.
 
 # News
-- We need a logo! Expressions of interest are due by September 19. [Details here](https://ahurford.github.io/accdmi-website/logo-app.html).
+- Design the ACCDMi logo! [Details here](https://ahurford.github.io/accdmi-website/logo-app.html).
 
 - Apply for an ACCDMi Scholarship. [Details here](https://ahurford.github.io/accdmi-website/scholarship.html)

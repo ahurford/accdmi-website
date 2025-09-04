@@ -11,6 +11,8 @@ website:
         text: Home
       - href: members.qmd
         text: Members
+      - href: trainees.qmd
+        text: Trainees
       - href: research.qmd
         text: Research
       - href: publications.qmd

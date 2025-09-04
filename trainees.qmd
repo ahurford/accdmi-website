@@ -1,0 +1,9 @@
+---
+title: "ACCDMi Trainees"
+---
+
+- [**Joseph Baafi**](https://jbaafi.github.io/joseph.baafi/). Memorial University. _Infectious disease, ecological modelling._
+
+- **Joshua Mack**. Memorial University. _Infectious disease modelling, avian influenza._
+
+More to be added.

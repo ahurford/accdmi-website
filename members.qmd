@@ -1,5 +1,5 @@
 ---
-title: "CRG Members"
+title: "ACCDMi Members"
 ---
 
 ## AARMS member universities
@@ -16,7 +16,7 @@ title: "CRG Members"
 **[James Watmough](https://watmough.ext.unb.ca/)**, Department of Mathematics and Statistics.  
 
 ### Mount Allison University 
-**[Matthew Betti](https://mta.ca/directory/matthew-betti)**, Department of Mathematics and Computer Science
+**[Matthew Betti](https://mta.ca/directory/matthew-betti)**, Department of Mathematics and Computer Science.   
 
 ### Dalhousie University
 **[Cindy Feng](https://medicine.dal.ca/departments/department-sites/community-health/our-people/our-faculty/cindy-feng.html)**, Department of Community Health and Epidemiology and Department of Mathematics and Statistics.  

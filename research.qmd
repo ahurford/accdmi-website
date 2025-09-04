@@ -1,17 +1,17 @@
 ---
-title: "Research Themes"
+title: "Research"
 ---
 
 ACCDMi researchers use data science, applied mathematics, and statistics to advance disease ecology modelling.  
 
-## Theme 1. ONE Health and zoonotic infections
+### 1. ONE Health and zoonotic infections
 Projects: Avian influenza models, spillover risk, amphibian disease ecology.  
 
-## Theme 2. Stochastic modelling, epidemic forecasting, and small jurisdictions
+### 2. Stochastic modelling, epidemic forecasting, and small jurisdictions
 Projects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions.  
 
-## Theme 3. Dynamical systems and control in disease ecology
+### 3. Dynamical systems and control in disease ecology
 Projects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.  
 
-## Theme 4. Modelling education
+### 4. Modelling education
 Projects: Online outreach resources, local outreach events, and training workshops.  

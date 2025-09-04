@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Atlantic Canada Center for Disease Ecology Modelling",
     "section": "",
-    "text": "The Atlantic Canada Center for Disease Ecology Modelling (ACCDMi) is a multidisciplinary research initiative to advance the science and application of infectious disease modelling to improve human and animal health.\nACCDMi will support the visibility of Atlantic Canada’s expertise in infectious disease modelling so that stakeholders, public health professionals, and experts in adjacent disciplines can discover the substantial expertise of mathematicians and statisticians and engage our experts in applied problems.\nACCDMi programs will build relationships and capacity through training, outreach, and collaborative partnerships to improve analyses by incorporating efficient algorithms, modelling approaches, and the perspectives of applied mathematics and statistics.\n\nNews\n\nWe need a logo! Expressions of interest are due by September 19. Details here.\nApply for an ACCDMi Scholarship. Details here"
+    "text": "The Atlantic Canada Center for Disease Ecology Modelling (ACCDMi) is a multidisciplinary research initiative to advance the science and application of infectious disease modelling to improve human and animal health.\nACCDMi will support the visibility of Atlantic Canada’s expertise in infectious disease modelling so that stakeholders, public health professionals, and experts in adjacent disciplines can discover the substantial expertise of mathematicians and statisticians and engage our experts in applied problems.\nACCDMi programs will build relationships and capacity through training, outreach, and collaborative partnerships to improve analyses by incorporating efficient algorithms, modelling approaches, and the perspectives of applied mathematics and statistics.\n\nNews\n\nDesign the ACCDMi logo! Details here.\nApply for an ACCDMi Scholarship. Details here"
   },
   {
     "objectID": "members.html",
     "href": "members.html",
-    "title": "CRG Members",
+    "title": "ACCDMi Members",
     "section": "",
-    "text": "Amy Hurford (Director), Biology Department and Department of Mathematics and Statistics.\nJC Loredo‑Osti, Department of Mathematics and Statistics.\nChunhua Ou, Department of Mathematics and Statistics.\nXiaoqiang Zhao, Department of Mathematics and Statistics.\nYuan Yuan, Department of Mathematics and Statistics.\n\n\n\nSanjeev Seahra, Department of Mathematics and Statistics.\nLin Wang, Department of Mathematics and Statistics.\nJames Watmough, Department of Mathematics and Statistics.\n\n\n\nMatthew Betti, Department of Mathematics and Computer Science\n\n\n\nCindy Feng, Department of Community Health and Epidemiology and Department of Mathematics and Statistics.\nEdward Susko, Department of Mathematics and Statistics.\nLam Ho, Department of Mathematics and Statistics.\n\n\n\nJavier Sanchez, Health Management.\n\n\n\n\nJulien Arino, University of Manitoba.\nMichael Li, Public Health Agency of Canada.\nKarsten Kirkeby, University of Copenhagen.\nHector Marina, Swedish University of Agricultural Sciences.\nMichael Plank, University of Canterbury."
+    "text": "Amy Hurford (Director), Biology Department and Department of Mathematics and Statistics.\nJC Loredo‑Osti, Department of Mathematics and Statistics.\nChunhua Ou, Department of Mathematics and Statistics.\nXiaoqiang Zhao, Department of Mathematics and Statistics.\nYuan Yuan, Department of Mathematics and Statistics.\n\n\n\nSanjeev Seahra, Department of Mathematics and Statistics.\nLin Wang, Department of Mathematics and Statistics.\nJames Watmough, Department of Mathematics and Statistics.\n\n\n\nMatthew Betti, Department of Mathematics and Computer Science.\n\n\n\nCindy Feng, Department of Community Health and Epidemiology and Department of Mathematics and Statistics.\nEdward Susko, Department of Mathematics and Statistics.\nLam Ho, Department of Mathematics and Statistics.\n\n\n\nJavier Sanchez, Health Management.\n\n\n\n\nJulien Arino, University of Manitoba.\nMichael Li, Public Health Agency of Canada.\nKarsten Kirkeby, University of Copenhagen.\nHector Marina, Swedish University of Agricultural Sciences.\nMichael Plank, University of Canterbury."
   },
   {
     "objectID": "members.html#from-aarms-member-universities",
@@ -37,9 +37,9 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research Themes",
+    "title": "Research",
     "section": "",
-    "text": "ACCDMi researchers use data science, applied mathematics, and statistics to advance disease ecology modelling."
+    "text": "ACCDMi researchers use data science, applied mathematics, and statistics to advance disease ecology modelling.\n\n1. ONE Health and zoonotic infections\nProjects: Avian influenza models, spillover risk, amphibian disease ecology.\n\n\n2. Stochastic modelling, epidemic forecasting, and small jurisdictions\nProjects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions.\n\n\n3. Dynamical systems and control in disease ecology\nProjects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.\n\n\n4. Modelling education\nProjects: Online outreach resources, local outreach events, and training workshops."
   },
   {
     "objectID": "research.html#theme-1.-one-health-and-zoonotic-infections",
@@ -74,7 +74,7 @@
     "href": "activities.html",
     "title": "Activities",
     "section": "",
-    "text": "December 2025\n\nACCDMi symposium.\n\n\n\nOctober 2025\n\nHurford and Mack research trip.\nAdvertise 2026 ACCDMi scholarships.\n\n\n\nSeptember 2025.\n\nSolicit 2025 ACCDMi scholarship applications.\n\nACCDMi Members meeting.\n\nACCDMi trainee members identified.\nLaunch website.\nCreate repository for modelling education resources."
+    "text": "ACCDMi symposium."
   },
   {
     "objectID": "logo-app.html",
@@ -86,8 +86,36 @@
   {
     "objectID": "members.html#aarms-member-universities",
     "href": "members.html#aarms-member-universities",
-    "title": "CRG Members",
+    "title": "ACCDMi Members",
     "section": "",
-    "text": "Amy Hurford (Director), Biology Department and Department of Mathematics and Statistics.\nJC Loredo‑Osti, Department of Mathematics and Statistics.\nChunhua Ou, Department of Mathematics and Statistics.\nXiaoqiang Zhao, Department of Mathematics and Statistics.\nYuan Yuan, Department of Mathematics and Statistics.\n\n\n\nSanjeev Seahra, Department of Mathematics and Statistics.\nLin Wang, Department of Mathematics and Statistics.\nJames Watmough, Department of Mathematics and Statistics.\n\n\n\nMatthew Betti, Department of Mathematics and Computer Science\n\n\n\nCindy Feng, Department of Community Health and Epidemiology and Department of Mathematics and Statistics.\nEdward Susko, Department of Mathematics and Statistics.\nLam Ho, Department of Mathematics and Statistics.\n\n\n\nJavier Sanchez, Health Management.\n\n\n\n\nJulien Arino, University of Manitoba.\nMichael Li, Public Health Agency of Canada.\nKarsten Kirkeby, University of Copenhagen.\nHector Marina, Swedish University of Agricultural Sciences.\nMichael Plank, University of Canterbury."
+    "text": "Amy Hurford (Director), Biology Department and Department of Mathematics and Statistics.\nJC Loredo‑Osti, Department of Mathematics and Statistics.\nChunhua Ou, Department of Mathematics and Statistics.\nXiaoqiang Zhao, Department of Mathematics and Statistics.\nYuan Yuan, Department of Mathematics and Statistics.\n\n\n\nSanjeev Seahra, Department of Mathematics and Statistics.\nLin Wang, Department of Mathematics and Statistics.\nJames Watmough, Department of Mathematics and Statistics.\n\n\n\nMatthew Betti, Department of Mathematics and Computer Science.\n\n\n\nCindy Feng, Department of Community Health and Epidemiology and Department of Mathematics and Statistics.\nEdward Susko, Department of Mathematics and Statistics.\nLam Ho, Department of Mathematics and Statistics.\n\n\n\nJavier Sanchez, Health Management.\n\n\n\n\nJulien Arino, University of Manitoba.\nMichael Li, Public Health Agency of Canada.\nKarsten Kirkeby, University of Copenhagen.\nHector Marina, Swedish University of Agricultural Sciences.\nMichael Plank, University of Canterbury."
+  },
+  {
+    "objectID": "activities.html#december-2025",
+    "href": "activities.html#december-2025",
+    "title": "Activities",
+    "section": "",
+    "text": "ACCDMi symposium."
+  },
+  {
+    "objectID": "activities.html#october-2025",
+    "href": "activities.html#october-2025",
+    "title": "Activities",
+    "section": "October 2025",
+    "text": "October 2025\n\nHurford and Mack research trip.\nAdvertise 2026 ACCDMi scholarships."
+  },
+  {
+    "objectID": "activities.html#september-2025.",
+    "href": "activities.html#september-2025.",
+    "title": "Activities",
+    "section": "September 2025.",
+    "text": "September 2025.\n\nSolicit 2025 ACCDMi scholarship applications.\n\nACCDMi Members meeting.\n\nACCDMi trainee members identified.\nLaunch website.\nCreate repository for modelling education resources."
+  },
+  {
+    "objectID": "trainees.html",
+    "href": "trainees.html",
+    "title": "ACCDMi Trainees",
+    "section": "",
+    "text": "Joseph Baafi. Memorial University. Infectious disease, ecological modelling.\nJoshua Mack. Memorial University. Infectious disease modelling, avian influenza.\n\nMore to be added."
   }
 ]
