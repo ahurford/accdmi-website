@@ -6,4 +6,8 @@ title: "ACCDMi Trainees"
 
 - **Joshua Mack**. Memorial University. _Infectious disease modelling, avian influenza._
 
-More to be added.
+- **Francis Anokye**. Memorial University. _Infectious disease modelling, covid-19._
+
+- **Jingyu Li**. Dalhousie University. _Infectious disease modelling, covid-19._
+
+- **Abdou Fofana**. Memorial University. _Infectious disease modelling, covid-19._
