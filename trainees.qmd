@@ -11,3 +11,7 @@ title: "ACCDMi Trainees"
 - **Jingyu Li**. Dalhousie University. _Infectious disease modelling, covid-19._
 
 - **Abdou Fofana**. Memorial University. _Infectious disease modelling, covid-19._
+
+- **Lele Fan**. University of New Brunswick. _Infectious disease modelling, covid-19._
+
+- **Huan Yang**. University of New Brunswick. _Infectious disease modelling, covid-19._
