@@ -15,3 +15,5 @@ title: "ACCDMi Trainees"
 - **Lele Fan**. University of New Brunswick. _Infectious disease modelling, covid-19._
 
 - **Huan Yang**. University of New Brunswick. _Infectious disease modelling, covid-19._
+
+- **Luyao Zhao**. University of New Brunswick. _Infectious disease modelling, covid-19._
