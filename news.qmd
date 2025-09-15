@@ -2,8 +2,6 @@
 title: "News"
 ---
 
-- Design the ACCDMi logo! [Details here](https://ahurford.github.io/accdmi-website/logo-app.html).
-
 - Apply for an ACCDMi Scholarship. [Details here](https://ahurford.github.io/accdmi-website/scholarship.html)
 
 
