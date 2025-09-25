@@ -4,10 +4,24 @@ title: "Publications"
 
 Publications that highlight the expertise of ACCDMi members.
 
--  Martignoni, M., J. ARINO, A. HURFORD. 2024. [*Is SARS-CoV-2 elimination or mitigation best?*](https://royalsocietypublishing.org/doi/10.1098/rsos.240186) R Soc Open Sci 11(6), 240186.  
+-  Martignoni, M., **Julien Arino, Amy Hurford**. 2024. [Is SARS-CoV-2 elimination or mitigation best?](https://royalsocietypublishing.org/doi/10.1098/rsos.240186) R Soc Open Sci 11(6), 240186.  
 
-- Ogden, N.H., A. HURFORD, M. LI, et al. 2024. [*Mathematical modelling for pandemic preparedness in Canada.*](https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2024-50/issue-10-october-2024/mathematical-modelling-pandemic-preparedness.html) Can Comm Dis Rep 50(10).  
+- Ogden, N.H., **Amy Hurford, Michael Li**, et al. 2024. [Mathematical modelling for pandemic preparedness in Canada.](https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2024-50/issue-10-october-2024/mathematical-modelling-pandemic-preparedness.html) Can Comm Dis Rep 50(10).  
 
-- HURFORD, A., J.C. LOREDO-OSTI, J. ARINO, J. WATMOUGH et al. 2023. [*Pandemic preparedness for regions implementing an elimination strategy.*](https://pubmed.ncbi.nlm.nih.gov/36584747/) J Theor Biol.  
+- **Hurford, Amy, J.C. Loredo-Osti, Julien Arino, James Watmough** et al. 2023. [Pandemic preparedness for regions implementing an elimination strategy.](https://pubmed.ncbi.nlm.nih.gov/36584747/) J Theor Biol. 
 
-Publications by other ACCDMi members are to be added.
+- **Feng, Cindy**, et al. 2025. [Impact of the COVID-19 pandemic on opioid toxicity mortality rates in Nova Scotia: An interrupted time series analysis (2009-2023)](https://rdcu.be/eH80b) Canadian Journal of Public Health, 1-16.
+
+- Luu, S. **Edward Susko, Lam Ho**. 2024. [Nonparameteric inference framework for time-dependent epidemic models.](https://arxiv.org/pdf/2409.17968). ArXiv. 
+
+- **Betti, Matthew** et al, 2023. [COVID-19 vaccination and healthcare demand.](https://rdcu.be/eH891). Bulletin of Mathematical Biology. 85, 23.
+
+- Fonseca, M. ..., **Javier Sanchez**. 2022. [Canadian dairy network for antimicrobial stewardship and resistance (CaDNetASR): an on-farm surveillance system.](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2021.799622/full). Fronteirs in Veterinary Science. 11. 
+
+- Jahedi, S., K. Kamran, **James Watmough**. 2025. [Targeting stem cells with oncolytic viruses: a mathematical modelling approach](https://www.aimspress.com/article/doi/10.3934/mbe.2025090) 22, 9.
+
+- Nie, H. J. Xing, **Xiao-Qiang Zhao**. 2024. [Global dynamics of an Aedes aegypti population model in closed advective environments](https://www-sciencedirect-com.qe2a-proxy.mun.ca/science/article/pii/S0022039624003905). Journal of Differential Equations 407, 236-268.
+
+- Daifeng, D. C. Wang, **Yuan Yuan.** 2023. Dynamical analysis in disease transmission and final epidemic size.
+
+- Ji, J.,.. **Lin Wang and James Watmough**. 2023. Climate-dependent effectiveness of nonpharmaceutical interventions on COVID-19 mitigation. Mathematical Biosciences 366, 109087.

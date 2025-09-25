@@ -1,17 +1,22 @@
 ---
 title: "Activities"
 ---
+## August 2027.
+- AARMS Summer school.
+
+## Summer 2026.
+- Plan in person meeting.
 
 ## December 2025
 -  ACCDMi symposium.  
 
 ## October 2025
--  Hurford and Mack research trip.
+-  Hurford and Mack avian influenza research trip.
 -  Advertise 2026 ACCDMi scholarships. 
 
 ## September 2025  
--  Solicit 2025 ACCDMi scholarship applications.  
--  ACCDMi Members meeting.  
--  ACCDMi trainee members identified.
-- Launch website.
+-  Trainees invited to apply for an ACCDMi scholarship. [Details here](https://ahurford.github.io/accdmi-website/scholarship.html)
+-  ACCDMi members meeting.  
+-  ACCDMi trainee members added to website.
+-  Launch website.
 -  Create repository for modelling education resources.  
