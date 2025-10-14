@@ -9,6 +9,9 @@ ACCDMi will support the visibility of Atlantic Canada’s expertise in infectiou
 
 ACCDMi programs will build relationships and capacity through training, outreach, and collaborative partnerships to improve analyses by incorporating efficient algorithms, modelling approaches, and the perspectives of applied mathematics and statistics.
 
+# ACCDMi Scholarships
+For information on the ACCDMi scholarships, please see [here](https://ahurford.github.io/accdmi-website/scholarship.html#scholarships).
+
 # Funding
 ACCDMi is a Collaborative Research Group funded by the [Atlantic Association for Research in the Mathematical Sciences](https://aarms.math.ca/).
 
