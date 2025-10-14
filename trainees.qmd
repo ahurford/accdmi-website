@@ -17,3 +17,8 @@ title: "ACCDMi Trainees"
 - **Huan Yang**. University of New Brunswick. _Infectious disease modelling, covid-19._
 
 - **Luyao Zhao**. University of New Brunswick. _Infectious disease modelling, covid-19._
+
+- **Wentao Meng**. Memorial University. _Infectious disease, optimal control._
+
+- **Jiajun Yue**. Memorial University. _Infectious disease, optimal control._
+
