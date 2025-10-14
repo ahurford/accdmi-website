@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -128,8 +157,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#accdmi-scholarships" id="toc-accdmi-scholarships" class="nav-link active" data-scroll-target="#accdmi-scholarships">2025 ACCDMi Scholarships</a></li>
-  <li><a href="#accdmi-scholarships-1" id="toc-accdmi-scholarships-1" class="nav-link" data-scroll-target="#accdmi-scholarships-1">2026 ACCDMi Scholarships</a></li>
+  <li><a href="#eligibility" id="toc-eligibility" class="nav-link active" data-scroll-target="#eligibility">Eligibility</a></li>
+  <li><a href="#accdmi-scholarships" id="toc-accdmi-scholarships" class="nav-link" data-scroll-target="#accdmi-scholarships">2025 ACCDMi Scholarships</a></li>
+  <li><a href="#accdmi-recruitment-scholarships" id="toc-accdmi-recruitment-scholarships" class="nav-link" data-scroll-target="#accdmi-recruitment-scholarships">2026 ACCDMi Recruitment Scholarships</a></li>
+  <li><a href="#evaluation-of-accdmi-scholarship-applications." id="toc-evaluation-of-accdmi-scholarship-applications." class="nav-link" data-scroll-target="#evaluation-of-accdmi-scholarship-applications.">Evaluation of ACCDMi Scholarship applications.</a></li>
+  <li><a href="#terms-of-accdmi-scholarships" id="toc-terms-of-accdmi-scholarships" class="nav-link" data-scroll-target="#terms-of-accdmi-scholarships">Terms of ACCDMi Scholarships</a></li>
   </ul>
 </nav>
     </div>
@@ -155,19 +187,48 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>Eligibility</strong>. To be eligible for an ACCDMi scholarship you must be supervised by an <a href="https://ahurford.github.io/accdmi-website/members.html">ACCDMi member</a> and a student or postdoctoral fellow at an <a href="https://aarms.math.ca/about/affiliated/">AARMS member university</a> and your research must be related to the mandate of <a href="https://ahurford.github.io/accdmi-website/">ACCDMi</a>.</p>
+<section id="eligibility" class="level2">
+<h2 class="anchored" data-anchor-id="eligibility">Eligibility</h2>
+<p>To be eligible for an <em>ACCDMi scholarship</em> you must be:</p>
+<ul>
+<li>supervised by an <a href="https://ahurford.github.io/accdmi-website/members.html">ACCDMi member</a>;</li>
+<li>a student or postdoctoral fellow at an <a href="https://aarms.math.ca/about/affiliated/">AARMS member university</a>; and</li>
+<li>your research must be related to the mandate of <a href="https://ahurford.github.io/accdmi-website/">ACCDMi</a>.</li>
+</ul>
+</section>
 <section id="accdmi-scholarships" class="level2">
 <h2 class="anchored" data-anchor-id="accdmi-scholarships">2025 ACCDMi Scholarships</h2>
 <ul>
 <li><p>You must meet the eligibility conditions for September 2025-August 2026.</p></li>
-<li><p>Please contact your supervisor for information on how to apply. The deadline to apply is October 15 or until positions are filled.</p></li>
+<li><p>Please contact your supervisor for information on how to apply. The deadline to apply is <strong>Friday October 17</strong> or until positions are filled.</p></li>
 </ul>
 </section>
-<section id="accdmi-scholarships-1" class="level2">
-<h2 class="anchored" data-anchor-id="accdmi-scholarships-1">2026 ACCDMi Scholarships</h2>
+<section id="accdmi-recruitment-scholarships" class="level2">
+<h2 class="anchored" data-anchor-id="accdmi-recruitment-scholarships">2026 ACCDMi Recruitment Scholarships</h2>
 <ul>
 <li><p>You must meet the eligibility conditions for September 2026-August 2027.</p></li>
-<li><p>If you are considering admission for September 2026, you are eligible for ACCDMi scholarships. Please contact Amy Hurford by email to discuss this opportunity.</p></li>
+<li><p><em>2026 ACCDMi Recruitment Scholarships</em> will support faculty offers for new graduate students or postdoctoral fellows applying for admission in Fall 2026 to be held at an AARMS member university. The ACCDMi Scholarship will be <em>included</em> as part of the admissions offer from the university. The ACCDMi supervisor will put the ACCDMi scholarship towards their contribution to the graduate student’s or postdoctoral fellow’s salary.</p></li>
+<li><p>If you are interested in <em>2026 ACCDMi Recruitment Scholarships</em>, you should contact your prospective supervisor to discuss whether they are willing to supervise your proposed graduate studies or postdoctoral fellowship. Your prospective supervisor can be any <a href="https://ahurford.github.io/accdmi-website/members.html">ACCDMi member</a> and co-supervision (including cross-institution co-supervision) is also a possibility. You should discuss potential research projects with your potential supervisors.</p></li>
+<li><p>Prospective graduate students and postdoctoral fellows are also encouraged to apply to AARMS’ other programs which include the <a href="https://aarms.math.ca/pdf/">AARMS postdoctoral fellowships</a> and <a href="https://aarms.math.ca/programs/scholarship/">AARMS graduate scholarships</a>. If you are considering this, please discuss it with your proposed supervisor.</p></li>
+<li><p>Please contact Amy Hurford by email if you wish to discuss the <em>2026 ACCDMi Recruitment Scholarships</em>, specifically.</p></li>
+</ul>
+</section>
+<section id="evaluation-of-accdmi-scholarship-applications." class="level2">
+<h2 class="anchored" data-anchor-id="evaluation-of-accdmi-scholarship-applications.">Evaluation of ACCDMi Scholarship applications.</h2>
+<ul>
+<li><p>Applicants must satisfy the eligibility requirements.</p></li>
+<li><p>For eligible applicants, a combination of the following is the basis for awarding the scholarships. That the applicant has outstanding potential to:</p></li>
+<li><p>contribute to the mandate of ACCDMi through their research,</p></li>
+<li><p>advancement of an underrepresented group in the discipline; and/or</p></li>
+<li><p>potential to support cross-institutional collaborative research within ACCDMi.</p></li>
+</ul>
+</section>
+<section id="terms-of-accdmi-scholarships" class="level2">
+<h2 class="anchored" data-anchor-id="terms-of-accdmi-scholarships">Terms of ACCDMi Scholarships</h2>
+<ul>
+<li><p>ACCDMi Scholarship recipients will be featured on the ACCDMi website.</p></li>
+<li><p>ACCDMi Scholarship recipients are required to participate in ACCDMi events. Where there is a cost associated with an event ACCDMi Scholarship recipients are encouraged to pursue sources of financial support, such as ACCDMi, the <a href="https://aarms.math.ca/programs/travelsupport/">AARMS Junior Travel Researcher Travel Support Program</a>, discussing this with their supervisors, or committing to participate remotely.</p></li>
+<li><p>Scholarship amounts are expected to be $$<span class="math inline">\(5,000-\)</span>$$10,000 for one year.</p></li>
 </ul>
 
 

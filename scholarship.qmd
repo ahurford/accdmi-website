@@ -2,16 +2,46 @@
 title: "ACCDMi Scholarships"
 ---
 
-**Eligibility**. To be eligible for an ACCDMi scholarship you must be supervised by an [ACCDMi member](https://ahurford.github.io/accdmi-website/members.html) and a student or postdoctoral fellow at an [AARMS member university](https://aarms.math.ca/about/affiliated/) and your research must be related to the mandate of [ACCDMi](https://ahurford.github.io/accdmi-website/).
+## Eligibility
+
+To be eligible for an *ACCDMi scholarship* you must be:
+
+- supervised by an [ACCDMi member](https://ahurford.github.io/accdmi-website/members.html);
+- a student or postdoctoral fellow at an [AARMS member university](https://aarms.math.ca/about/affiliated/); and
+- your research must be related to the mandate of [ACCDMi](https://ahurford.github.io/accdmi-website/).
 
 ## 2025 ACCDMi Scholarships
 
 - You must meet the eligibility conditions for September 2025-August 2026.
 
-- Please contact your supervisor for information on how to apply. The deadline to apply is October 15 or until positions are filled.
+- Please contact your supervisor for information on how to apply. The deadline to apply is **Friday October 17** or until positions are filled.
 
-## 2026 ACCDMi Scholarships
+## 2026 ACCDMi Recruitment Scholarships
 
 - You must meet the eligibility conditions for September 2026-August 2027.
 
-- If you are considering admission for September 2026, you are eligible for ACCDMi scholarships. Please contact Amy Hurford by email to discuss this opportunity.
+- *2026 ACCDMi Recruitment Scholarships* will support faculty offers for new graduate students or postdoctoral fellows applying for admission in Fall 2026 to be held at an AARMS member university. The ACCDMi Scholarship will be *included* as part of the admissions offer from the university. The ACCDMi supervisor will put the ACCDMi scholarship towards their contribution to the graduate student's or postdoctoral fellow's salary.
+
+- If you are interested in *2026 ACCDMi Recruitment Scholarships*, you should contact your prospective supervisor to discuss whether they are willing to supervise your proposed graduate studies or postdoctoral fellowship. Your prospective supervisor can be any [ACCDMi member](https://ahurford.github.io/accdmi-website/members.html) and co-supervision (including cross-institution co-supervision) is also a possibility. You should discuss potential research projects with your potential supervisors.
+
+- Prospective graduate students and postdoctoral fellows are also encouraged to apply to AARMS' other programs which include the [AARMS postdoctoral fellowships](https://aarms.math.ca/pdf/) and [AARMS graduate scholarships](https://aarms.math.ca/programs/scholarship/). If you are considering this, please discuss it with your proposed supervisor.
+
+- Please contact Amy Hurford by email if you wish to discuss the *2026 ACCDMi Recruitment Scholarships*, specifically.
+
+## Evaluation of ACCDMi Scholarship applications.
+
+- Applicants must satisfy the eligibility requirements.
+
+- For eligible applicants, a combination of the following is the basis for awarding the scholarships. That the applicant has outstanding potential to:
+
+- contribute to the mandate of ACCDMi through their research,
+- advancement of an underrepresented group in the discipline; and/or
+- potential to support cross-institutional collaborative research within ACCDMi.
+
+## Terms of ACCDMi Scholarships
+
+- ACCDMi Scholarship recipients will be featured on the ACCDMi website.
+
+- ACCDMi Scholarship recipients are required to participate in ACCDMi events. Where there is a cost associated with an event ACCDMi Scholarship recipients are encouraged to pursue sources of financial support, such as ACCDMi, the [AARMS Junior Travel Researcher Travel Support Program](https://aarms.math.ca/programs/travelsupport/), discussing this with their supervisors, or committing to participate remotely.
+
+- Scholarship amounts are expected to be $\$$5,000-$\$$10,000 for one year.
