@@ -22,3 +22,5 @@ title: "ACCDMi Trainees"
 
 - **Jiajun Yue**. Memorial University. _Infectious disease, optimal control._
 
+- **Dandan Hu**. Memorial University. _Infectious disease modelling._
+
