@@ -67,35 +67,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -201,6 +172,7 @@ window.Quarto = {
 <ul>
 <li><p>You must meet the eligibility conditions for September 2025-August 2026.</p></li>
 <li><p>Please contact your supervisor for information on how to apply. The deadline to apply is <strong>Friday October 17</strong> or until positions are filled.</p></li>
+<li><p>The terms of the scholarships are below.</p></li>
 </ul>
 </section>
 <section id="accdmi-recruitment-scholarships" class="level2">
@@ -228,7 +200,7 @@ window.Quarto = {
 <ul>
 <li><p>ACCDMi Scholarship recipients will be featured on the ACCDMi website.</p></li>
 <li><p>ACCDMi Scholarship recipients are required to participate in ACCDMi events. Where there is a cost associated with an event ACCDMi Scholarship recipients are encouraged to pursue sources of financial support, such as ACCDMi, the <a href="https://aarms.math.ca/programs/travelsupport/">AARMS Junior Travel Researcher Travel Support Program</a>, discussing this with their supervisors, or committing to participate remotely.</p></li>
-<li><p>Scholarship amounts are expected to be $$<span class="math inline">\(5,000-\)</span>$$10,000 for one year.</p></li>
+<li><p>Scholarship amounts are provided to the supervisor to be used towards the trainee’s stipend. The scholarship award recognizes the trainee for their contributions to collaborative research. Amounts are provided to the supervisor because it is the supervisor’s responsibility to ensure the ACCDMi research is completed.</p></li>
 </ul>
 
 
