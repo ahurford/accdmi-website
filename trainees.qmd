@@ -8,9 +8,17 @@ title: "ACCDMi Trainees"
 
 - **Francis Anokye**. Memorial University. _Infectious disease modelling, covid-19._
 
+- **Abdou Fofana**. Memorial University. _Infectious disease modelling, covid-19._
+
+- **Wentao Meng**. Memorial University. _Infectious disease, optimal control._
+
+- **Jiajun Yue**. Memorial University. _Infectious disease, optimal control._
+
+- **Dandan Hu**. Memorial University. _Infectious disease modelling._
+
 - **Jingyu Li**. Dalhousie University. _Infectious disease modelling, covid-19._
 
-- **Abdou Fofana**. Memorial University. _Infectious disease modelling, covid-19._
+- **Thu Nguyen**. Dalhousie University. _Infectious disease modelling, covid-19._
 
 - **Lele Fan**. University of New Brunswick. _Infectious disease modelling, covid-19._
 
@@ -18,9 +26,6 @@ title: "ACCDMi Trainees"
 
 - **Luyao Zhao**. University of New Brunswick. _Infectious disease modelling, covid-19._
 
-- **Wentao Meng**. Memorial University. _Infectious disease, optimal control._
 
-- **Jiajun Yue**. Memorial University. _Infectious disease, optimal control._
 
-- **Dandan Hu**. Memorial University. _Infectious disease modelling._
 
