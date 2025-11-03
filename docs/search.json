@@ -114,23 +114,23 @@
   {
     "objectID": "trainees.html",
     "href": "trainees.html",
-    "title": "ACCDMi Trainees",
+    "title": "ACCDMi Trainee Members",
     "section": "",
-    "text": "Joseph Baafi. Memorial University. Infectious disease, ecological modelling.\nJoshua Mack. Memorial University. Infectious disease modelling, avian influenza.\nFrancis Anokye. Memorial University. Infectious disease modelling, covid-19.\nAbdou Fofana. Memorial University. Infectious disease modelling, covid-19.\nWentao Meng. Memorial University. Infectious disease, optimal control.\nJiajun Yue. Memorial University. Infectious disease, optimal control.\nDandan Hu. Memorial University. Infectious disease modelling.\nJingyu Li. Dalhousie University. Infectious disease modelling, covid-19.\nThu Nguyen. Dalhousie University. Infectious disease modelling, covid-19.\nLele Fan. University of New Brunswick. Infectious disease modelling, covid-19.\nHuan Yang. University of New Brunswick. Infectious disease modelling, covid-19.\nLuyao Zhao. University of New Brunswick. Infectious disease modelling, covid-19."
+    "text": "Dandan Hu\nPhD in Mathematics, Memorial University\n\n\n\nWe propose a predator–prey–disease model described by reaction–diffusion equations with nonlocal delays, featuring disease transmission within the prey population and intra- and interspecific predator competition. The model explicitly incorporates predator-induced fear and Allee effects; rigorous analysis will reveal thresholds and spatial–temporal dynamics that inform interdisciplinary conservation strategies. Supervisor: Dr. Yuan Yuan.\n\n\n\n\n\n\nGuanjie Lyu\nPhD in Statistics, Dalhousie University\n\n\n\nI develop a copula-based joint modelling framework that links the latent error components of vaccination uptake and hospitalization outcomes to address endogeneity from unobserved risk perception. Nonlinear covariate effects are handled in the marginal mean equations via flexible splines, while the copula governs dependence (including tail behavior) and can vary over space and time. This yields credible, policy-relevant estimates of vaccine effectiveness that advance ACCDMi’s disease-ecology and evidence-informed public-health objectives in Atlantic Canada. Supervisor: Dr. Cindy Feng.\n\n\n\n\n\n\nJoshua Mack\nMSc in Biology, Memorial University\n\n\n\nI have developed a mathematical model to estimate the average number of avian influenza virus infections in humans using data describing the interpandemic periods for the seven influenza pandemics that occurred over the last 245 years. This will help determine the risk of emergence of pandemic influenza. I am also studying how wild bird migrations and disease spread would produce seasonal effects in the risk of human infection within years during the interpandemic period. Supervisor: Dr. Amy Hurford\n\n\n\n\nOther scholarship recipients are to be announced after they provide the requested information."
   },
   {
     "objectID": "scholarship.html",
     "href": "scholarship.html",
     "title": "ACCDMi Scholarships",
     "section": "",
-    "text": "To be eligible for an ACCDMi scholarship you must be:\n\nsupervised by an ACCDMi member;\na student or postdoctoral fellow at an AARMS member university; and\nyour research must be related to the mandate of ACCDMi."
+    "text": "To be eligible for an ACCDMi scholarship you must be:\n\nsupervised by an ACCDMi member;\na student or postdoctoral fellow at an AARMS member university; and\nyour research must be related to the mandate of ACCDMi.\n\nThe 2025 ACCDMi Scholarship recipients are listed on the trainees page."
   },
   {
     "objectID": "scholarship.html#accdmi-scholarships",
     "href": "scholarship.html#accdmi-scholarships",
     "title": "ACCDMi Scholarships",
     "section": "2025 ACCDMi Scholarships",
-    "text": "2025 ACCDMi Scholarships\n\nYou must meet the eligibility conditions for September 2025-August 2026.\nPlease contact your supervisor for information on how to apply. The deadline to apply is Friday October 17 or until positions are filled.\nThe terms of the scholarships are below."
+    "text": "2025 ACCDMi Scholarships\nPlease see the trainees page for the 2025 ACCDMi Scholarship recipients."
   },
   {
     "objectID": "scholarship.html#accdmi-scholarships-1",
@@ -200,7 +200,7 @@
     "href": "scholarship.html#eligibility",
     "title": "ACCDMi Scholarships",
     "section": "",
-    "text": "To be eligible for an ACCDMi scholarship you must be:\n\nsupervised by an ACCDMi member;\na student or postdoctoral fellow at an AARMS member university; and\nyour research must be related to the mandate of ACCDMi."
+    "text": "To be eligible for an ACCDMi scholarship you must be:\n\nsupervised by an ACCDMi member;\na student or postdoctoral fellow at an AARMS member university; and\nyour research must be related to the mandate of ACCDMi.\n\nThe 2025 ACCDMi Scholarship recipients are listed on the trainees page."
   },
   {
     "objectID": "oct-2025-newsletter.html",
@@ -222,5 +222,33 @@
     "title": "Activities",
     "section": "Summer 2026",
     "text": "Summer 2026\n\nPlan in person meeting."
+  },
+  {
+    "objectID": "scholarship-2025.html",
+    "href": "scholarship-2025.html",
+    "title": "2025 ACCDMi Scholarship recipients",
+    "section": "",
+    "text": "Alex Rivera\nSoftware Engineer\nExpert in full-stack development and cloud architecture. Builds scalable and secure systems.\n\n\n Jamie Lee\nUI/UX Designer\nSpecializes in intuitive interfaces and digital accessibility, ensuring seamless user experiences.\n\n\n Taylor Morgan\nData Scientist\nFocuses on AI-driven analytics and predictive modeling for better decision-making."
+  },
+  {
+    "objectID": "trainees.html#accdmi-scholarship-recipients",
+    "href": "trainees.html#accdmi-scholarship-recipients",
+    "title": "ACCDMi Trainee Members",
+    "section": "",
+    "text": "Dandan Hu\nPhD in Mathematics, Memorial University\n\n\n\nWe propose a predator–prey–disease model described by reaction–diffusion equations with nonlocal delays, featuring disease transmission within the prey population and intra- and interspecific predator competition. The model explicitly incorporates predator-induced fear and Allee effects; rigorous analysis will reveal thresholds and spatial–temporal dynamics that inform interdisciplinary conservation strategies. Supervisor: Dr. Yuan Yuan.\n\n\n\n\n\n\nGuanjie Lyu\nPhD in Statistics, Dalhousie University\n\n\n\nI develop a copula-based joint modelling framework that links the latent error components of vaccination uptake and hospitalization outcomes to address endogeneity from unobserved risk perception. Nonlinear covariate effects are handled in the marginal mean equations via flexible splines, while the copula governs dependence (including tail behavior) and can vary over space and time. This yields credible, policy-relevant estimates of vaccine effectiveness that advance ACCDMi’s disease-ecology and evidence-informed public-health objectives in Atlantic Canada. Supervisor: Dr. Cindy Feng.\n\n\n\n\n\n\nJoshua Mack\nMSc in Biology, Memorial University\n\n\n\nI have developed a mathematical model to estimate the average number of avian influenza virus infections in humans using data describing the interpandemic periods for the seven influenza pandemics that occurred over the last 245 years. This will help determine the risk of emergence of pandemic influenza. I am also studying how wild bird migrations and disease spread would produce seasonal effects in the risk of human infection within years during the interpandemic period. Supervisor: Dr. Amy Hurford\n\n\n\n\nOther scholarship recipients are to be announced after they provide the requested information."
+  },
+  {
+    "objectID": "trainees.html#accdmi-trainees",
+    "href": "trainees.html#accdmi-trainees",
+    "title": "ACCDMi Trainee Members",
+    "section": "ACCDMi trainees",
+    "text": "ACCDMi trainees\n\nJoseph Baafi. Memorial University. Infectious disease, ecological modelling.\nJoshua Mack. Memorial University. Infectious disease modelling, avian influenza.\nFrancis Anokye. Memorial University. Infectious disease modelling, covid-19.\nAbdou Fofana. Memorial University. Infectious disease modelling, covid-19.\nWentao Meng. Memorial University. Infectious disease, optimal control.\nJiajun Yue. Memorial University. Infectious disease, optimal control.\nDandan Hu. Memorial University. Infectious disease modelling.\nJingyu Li. Dalhousie University. Infectious disease modelling, covid-19.\nThu Nguyen. Dalhousie University. Infectious disease modelling, covid-19.\nLele Fan. University of New Brunswick. Infectious disease modelling, covid-19.\nHuan Yang. University of New Brunswick. Infectious disease modelling, covid-19.\nLuyao Zhao. University of New Brunswick. Infectious disease modelling, covid-19."
+  },
+  {
+    "objectID": "trainees.html#other-accdmi-trainees",
+    "href": "trainees.html#other-accdmi-trainees",
+    "title": "ACCDMi Trainee Members",
+    "section": "Other ACCDMi trainees",
+    "text": "Other ACCDMi trainees\n\nJoseph Baafi. Memorial University. Infectious disease, ecological modelling.\nFrancis Anokye. Memorial University. Infectious disease modelling, covid-19.\nAbdou Fofana. Memorial University. Infectious disease modelling, covid-19.\nWentao Meng. Memorial University. Infectious disease, optimal control.\nJiajun Yue. Memorial University. Infectious disease, optimal control.\nThu Nguyen. Dalhousie University. Infectious disease modelling, covid-19.\nLele Fan. University of New Brunswick. Infectious disease modelling, covid-19.\nHuan Yang. University of New Brunswick. Infectious disease modelling, covid-19.\nLuyao Zhao. University of New Brunswick. Infectious disease modelling, covid-19."
   }
 ]

@@ -1,10 +1,118 @@
 ---
-title: "ACCDMi Trainees"
+title: "ACCDMi Trainee Members"
 ---
 
-- [**Joseph Baafi**](https://jbaafi.github.io/joseph.baafi/). Memorial University. _Infectious disease, ecological modelling._
+## 2025 ACCDMi Scholarship recipients
 
-- **Joshua Mack**. Memorial University. _Infectious disease modelling, avian influenza._
+::: {.team-container}
+
+::: {.member}
+::: {.left-column}
+![](images/aarms_logo.png){width=100%}
+
+<div class="name-position">
+**Dandan Hu**  
+*PhD in Mathematics, Memorial University*
+</div>
+:::
+
+::: {.right-column}
+We propose a predator–prey–disease model described by reaction–diffusion equations with nonlocal delays, featuring disease transmission within the prey population and intra- and interspecific predator competition. The model explicitly incorporates predator-induced fear and Allee effects; rigorous analysis will reveal thresholds and spatial–temporal dynamics that inform interdisciplinary conservation strategies. Supervisor: Dr. Yuan Yuan.
+:::
+:::
+
+::: {.member}
+::: {.left-column}
+![](images/lyu.png){width=100%}
+
+<div class="name-position">
+**Guanjie Lyu**  
+*PhD in Statistics, Dalhousie University*
+</div>
+:::
+
+::: {.right-column}
+I develop a copula-based joint modelling framework that links the latent error components of vaccination uptake and hospitalization outcomes to address endogeneity from unobserved risk perception. Nonlinear covariate effects are handled in the marginal mean equations via flexible splines, while the copula governs dependence (including tail behavior) and can vary over space and time. This yields credible, policy-relevant estimates of vaccine effectiveness that advance ACCDMi’s disease-ecology and evidence-informed public-health objectives in Atlantic Canada. Supervisor: Dr. Cindy Feng.
+:::
+:::
+
+::: {.member}
+::: {.left-column}
+![](images/aarms_logo.png){width=100%}
+
+<div class="name-position">
+**Joshua Mack**  
+*MSc in Biology, Memorial University*
+</div>
+:::
+
+::: {.right-column}
+I have developed a mathematical model to estimate the average number of avian influenza virus infections in humans using data describing the interpandemic periods for the seven influenza pandemics that occurred over the last 245 years. This will help determine the risk of emergence of pandemic influenza. I am also studying how wild bird migrations and disease spread would produce seasonal effects in the risk of human infection within years during the interpandemic period. Supervisor: Dr. Amy Hurford
+:::
+:::
+
+:::
+
+
+<style>
+.team-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 2rem auto;
+  max-width: 1100px;
+}
+
+.member {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+  padding: 1rem;
+}
+
+.left-column {
+  flex: 0 0 20%;
+  max-width: 20%;
+  text-align: center; /* image stays centered */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.name-position {
+  text-align: left; /* left-align name/position */
+  width: 100%;
+}
+
+.right-column {
+  flex: 1;
+  line-height: 1.5;
+}
+
+@media (max-width: 700px) {
+  .member {
+    flex-direction: column;
+  }
+  .left-column, .right-column {
+    max-width: 100%;
+    flex: 1 1 100%;
+  }
+  .name-position {
+    text-align: center; /* center on small screens */
+  }
+}
+</style>
+
+Other scholarship recipients are to be announced after they provide the requested information.
+
+## Other ACCDMi trainees
+
+- [**Joseph Baafi**](https://jbaafi.github.io/joseph.baafi/). Memorial University. _Infectious disease, ecological modelling._
 
 - **Francis Anokye**. Memorial University. _Infectious disease modelling, covid-19._
 
@@ -14,10 +122,6 @@ title: "ACCDMi Trainees"
 
 - **Jiajun Yue**. Memorial University. _Infectious disease, optimal control._
 
-- **Dandan Hu**. Memorial University. _Infectious disease modelling._
-
-- **Jingyu Li**. Dalhousie University. _Infectious disease modelling, covid-19._
-
 - **Thu Nguyen**. Dalhousie University. _Infectious disease modelling, covid-19._
 
 - **Lele Fan**. University of New Brunswick. _Infectious disease modelling, covid-19._
@@ -25,7 +129,3 @@ title: "ACCDMi Trainees"
 - **Huan Yang**. University of New Brunswick. _Infectious disease modelling, covid-19._
 
 - **Luyao Zhao**. University of New Brunswick. _Infectious disease modelling, covid-19._
-
-
-
-
