@@ -27,7 +27,7 @@ We propose a predator–prey–disease model described by reaction–diffusion e
 
 <div class="name-position">
 **Guanjie Lyu**  
-*PhD in Statistics, Dalhousie University*
+*Postdoctoral Fellow in the Department of Community Health & Epidemiology, Dalhousie University*
 </div>
 :::
 
