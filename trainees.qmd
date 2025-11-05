@@ -96,6 +96,22 @@ My research integrates large-scale, publicly available aquaculture datasets to i
 :::
 :::
 
+::: {.member}
+::: {.left-column}
+![](images/aarms_logo.png){width=100%}
+
+<div class="name-position">
+**Jingyu Li**  
+*PhD in Statistics, Dalhousie University*
+</div>
+:::
+
+::: {.right-column}
+I am developing a Bayesian framework for estimating time-varying infection rates and detecting change points in infectious dynamics that reflect the effects of interventions, behavioral modifications, or immunity shifts. I am also interested in likelihood approximations that allow efficient inference for smaller populations and I am developing methods that allow spatial heterogeneity. This work can be expected to contribute to inform public health decision-making in Atlantic Canada because its regional populations are small. Supervisors: Drs. Edward Susko and Lam Ho.
+:::
+:::
+
+
 
 :::
 
