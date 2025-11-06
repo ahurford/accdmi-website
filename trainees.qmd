@@ -38,7 +38,7 @@ I develop a copula-based joint modelling framework that links the latent error c
 
 ::: {.member}
 ::: {.left-column}
-![](images/aarms_logo.png){width=100%}
+![](images/josh.jpg){width=100%}
 
 <div class="name-position">
 **Joshua Mack**  
