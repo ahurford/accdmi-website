@@ -126,6 +126,36 @@ I am developing a Bayesian framework for estimating time-varying infection rates
 :::
 :::
 
+::: {.member}
+::: {.left-column}
+![](images/anokye.png){width=100%}
+
+<div class="name-position">
+**Francis Anokye**  
+*PhD Candidate in Interdisciplinary studies, Memorial University*
+</div>
+:::
+
+::: {.right-column}
+My research combines public health, epidemiological modelling, and data science to improve understanding of infectious disease transmission in Atlantic Canada. Using mechanistic models, seroprevalence data and advanced statistical methods, my work provides an assessment of public health interventions such as vaccination campaigns and provincial alert level systems to understand COVID-19 transmission dynamics in Newfoundland and Labrador during the pandemic. This work enhances outbreak response in smaller jurisdictions, public health policy and evidence-based decision-making.  Supervisors: Dr. Amy Hurford.
+:::
+:::
+
+::: {.member}
+::: {.left-column}
+![](images/yue.jpg){width=100%}
+
+<div class="name-position">
+**Jiajun Yue**  
+*PhD Candidate in Mathematics, Memorial University*
+</div>
+:::
+
+::: {.right-column}
+My project develops and analyzes age-structured and dose-structured mathematical models to study infectious diseases under imperfect vaccination. We aim to identify optimal vaccine-mixing strategies under budget constraints using coupled ODE–PDE models. Supervisors: Dr. Chunhua Ou.
+:::
+:::
+
 :::
 
 
@@ -189,11 +219,7 @@ Other scholarship recipients are to be announced after they provide the requeste
 
 - [**Joseph Baafi**](https://jbaafi.github.io/joseph.baafi/). Memorial University. _Infectious disease, ecological modelling._
 
-- **Francis Anokye**. Memorial University. _Infectious disease modelling, covid-19._
-
 - **Abdou Fofana**. Memorial University. _Infectious disease modelling, covid-19._
-
-- **Jiajun Yue**. Memorial University. _Infectious disease, optimal control._
 
 - **Thu Nguyen**. Dalhousie University. _Infectious disease modelling, covid-19._
 
