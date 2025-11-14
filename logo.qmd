@@ -4,5 +4,5 @@ title: "Logos"
 
 ACCDMi members are encouraged to use the ACCDMi and AARMS logos when presenting their work related to ACCDMi.
 
-- ACCDMi logos for download ([here]())
+- ACCDMi logos for download ([here](images/logo))
 - AARMS logos for download ([here](https://aarms.math.ca/about/logos/))
