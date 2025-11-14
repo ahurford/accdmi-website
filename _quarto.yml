@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Atlantic Canada Center for Disease Ecology Modelling (ACCDMi)"
+  title: "ACCDMi"
   navbar:
     background:  "#440154"
+    logo: "images/logo/accdmi-logo-icon-only.png"
     left:
       - href: index.qmd
         text: Home
