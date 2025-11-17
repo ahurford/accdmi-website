@@ -3,7 +3,7 @@ format: html
 ---
 
 ```{r, out.width="60%", echo=FALSE, purl=FALSE}
-knitr::include_graphics("images/logo/accdmi-logo.png")
+knitr::include_graphics("images/logo/accdmi-logo-png.png")
 ```
 
 The Atlantic Canada Centre for Disease Ecology Modelling (ACCDMi, pronounced "academy") is a multidisciplinary research initiative to advance the science and application of infectious disease modelling to improve human and animal health.
