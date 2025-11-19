@@ -8,7 +8,7 @@ Thanks for your support of ACCDMi!
 
 - The ACCDMi keynote talk (December 10) will be given by Dr. Nick Ogden (Public Health Agency of Canada).
 
-- Congratulations to the [2025 ACCDMi scholarship recipients](https://ahurford.github.io/accdmi-website/trainee.html)!
+- Congratulations to the [2025 ACCDMi scholarship recipients](https://ahurford.github.io/accdmi-website/trainees.html)!
 
 - ACCDMi has a logo! Please use the [logo](https://ahurford.github.io/accdmi-website/logo.html) for your ACCDMi-related presentations.
 
