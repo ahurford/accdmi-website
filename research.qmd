@@ -4,14 +4,18 @@ title: "Research"
 
 ACCDMi researchers use data science, applied mathematics, and statistics to advance disease ecology modelling.  
 
-### 1. ONE Health and zoonotic infections (Lead by Dr. Javier Sanchez)
-Projects: Avian influenza models, spillover risk, amphibian disease ecology.  
+### 1. ONE Health and zoonotic infections (Led by Dr. Javier Sanchez)
+Projects: Avian influenza models, spillover risk, amphibian disease ecology.
+
+- Baafi, J. and A. Hurford. [Effect of Climate Warming on Mosquito Population Dynamics in Newfoundland](https://www.biorxiv.org/content/10.1101/2025.09.07.674692v1). Under review at the Bulletin of Mathematical Biology.
 
 ### 2. Stochastic modelling, epidemic forecasting, and small jurisdictions (Led by Dr. Edward Susko)
-Projects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions.  
+Projects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions. 
+
+- Anokye, F., M. WZ Li, S. Walker, and A. Hurford. [Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada](https://www.medrxiv.org/content/10.1101/2025.09.26.25336738v1). Under review at PLoS Computational Biology.
 
 ### 3. Dynamical systems and control in disease ecology
 Projects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.  
 
-### 4. Modelling education (Lead by Dr. Amy Hurford)
+### 4. Modelling education (Led by Dr. Amy Hurford)
 Projects: Online outreach resources, local outreach events, and training workshops.  
