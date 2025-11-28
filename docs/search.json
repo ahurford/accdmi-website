@@ -95,7 +95,7 @@
     "href": "activities.html#december-2025",
     "title": "Activities",
     "section": "December 2025",
-    "text": "December 2025\n\nACCDMi symposium (online) to be held on Wednesday December 10. Please email your talk titles to Francis Anokye by Friday November 21."
+    "text": "December 2025\n\nACCDMi symposium (online) to be held on Wednesday December 10. Details here"
   },
   {
     "objectID": "activities.html#october-2025",
@@ -278,5 +278,33 @@
     "title": "ACCDMi Newsletter - November 2025",
     "section": "",
     "text": "Thanks for your support of ACCDMi!\n\nThe deadline is Wednesday November 26 to email your talk titles to Francis Anokye for the ACCDMi symposium (Wednesday December 10). Talks will be short (12 mins). The aim of this event is to familiarize ourselves with each others research. Everyone is encouraged to participate.\nThe ACCDMi keynote talk (December 10) will be given by Dr. Nick Ogden (Public Health Agency of Canada).\nCongratulations to the 2025 ACCDMi scholarship recipients!\nACCDMi has a logo! Please use the logo for your ACCDMi-related presentations.\nPlease email Amy Hurford any ACCDMi-related publications for the website."
+  },
+  {
+    "objectID": "dec-symposium.html",
+    "href": "dec-symposium.html",
+    "title": "ACCDMi Symposium",
+    "section": "",
+    "text": "Date: Wednesday December 10\nLocation: A-1043 (Memorial University) and online (email ahurford@mun.ca for the link)\nTimes refer to Newfoundland (which is a time zone that is 30 mins offset from most places)."
+  },
+  {
+    "objectID": "dec-symposium.html#schedule",
+    "href": "dec-symposium.html#schedule",
+    "title": "ACCDMi Symposium",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nTime\n\n\nSpeaker\n\n\nTitle\n\n\n\n\n9.25-\n\n\nAmy Hurford\n\n\nIntroduction to ACCDMi\n\n\n\n\n9.40-\n\n\nCarsten Kirkeby\n\n\nAvian Influenza Epidemiology in Denmark and Europe: Dynamics, Risk and Early Warning\n\n\n\n\n9.55-\n\n\nJoshua Mack\n\n\nEstimating the Annual Number of Humans Infected with Highly Pathogenic Avian Influenza Viruses from Historical Pandemic Rates\n\n\n\n\n10.10-\n\n\nWentao Meng\n\n\nOptimal control in a multi-structured model with imperfect vaccination\n\n\n\n\n\n\n\n\n\n10.25-\n\n\n\n\n5 min break\n\n\n\n\n\n\n\n\n\n10.30-\n\n\nDandan Hu\n\n\nDynamical analysis in a nonlocal delayed reaction–diffusion tumor model with therapy\n\n\n\n\n10.45-\n\n\nSumit Jyoti\n\n\nHarnessing publicly available salmon data through epidemiological and statistical tools\n\n\n\n\n11.00-\n\n\nAbdelmonem Mohamed\n\n\nControl and mitigation of infectious salmon anaemia virus in farmed Atlantic salmon: results from a scoping review\n\n\n\n\n11.15-\n\n\nAhsan Raquib\n\n\nSpace–time clustering and multiple-membership survival analysis of time to first detection of infectious salmon anemia virus in Atlantic salmon farms\n\n\n\n\n\n\n\n\n\n11.30-\n\n\n\n\n5 min break\n\n\n\n\n\n\n\n\n\n11.35-\n\n\nThu Nguyen\n\n\nSparse Bayesian Random Feature Models for Delay-Embedded Time Series in Epidemiology\n\n\n\n\n11.50-\n\n\nJingyu Li\n\n\nComputationally Efficient Bayesian Inference for Change Points Detection in Infectious Disease Model\n\n\n\n\n12.05-\n\n\nMichael WZ Li\n\n\nThe need to continue what we started – Evergreen problems post COVID-19 pandemic\n\n\n\n\n\n\n\n\n\n12.20-\n\n\n\n\n10 min break\n\n\n\n\n\n\n\n\n\n12.30-\n\n\nKeynote\n\n\nA separate link was provided over email"
+  },
+  {
+    "objectID": "dec-symposium.html#keynote",
+    "href": "dec-symposium.html#keynote",
+    "title": "ACCDMi Symposium",
+    "section": "Keynote",
+    "text": "Keynote\nModelling to support public health decisions\nNicholas Ogden, 12.30-1.30pm\nThe COVID-19 pandemic served as a catalyst for the development and use of infectious disease modelling to support public health decisions in Canada. In a post-pandemic environment, modelling has now become established as a key public health function. In this talk I will discuss the range of uses and applications for modelling in public health decision-making, as well as considerations of model complexity, realism, uncertainty, communication, and skillset and data needs."
+  },
+  {
+    "objectID": "dec-symposium.html#details",
+    "href": "dec-symposium.html#details",
+    "title": "ACCDMi Symposium",
+    "section": "",
+    "text": "Date: Wednesday December 10\nLocation: A-1043 (Memorial University) and online (email ahurford@mun.ca for the link)\nTimes refer to Newfoundland (which is a time zone that is 30 mins offset from most places)."
   }
 ]

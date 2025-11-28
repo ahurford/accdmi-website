@@ -1,0 +1,45 @@
+---
+title: "ACCDMi Symposium"
+---
+
+## Details
+
+Date: Wednesday December 10
+
+Location: A-1043 (Memorial University) and online (email ahurford@mun.ca for the link)
+
+Times refer to Newfoundland (which is a time zone that is 30 mins offset from most places).
+
+## Schedule
+<table>
+  <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
+  <tr><td>9.25-  </td><td> Amy Hurford</td><td>Introduction to ACCDMi</td></tr>
+  <tr><td>9.40-  </td><td> Carsten Kirkeby</td><td>Avian Influenza Epidemiology in Denmark and Europe: Dynamics, Risk and Early Warning</td></tr>
+    <tr><td>9.55-  </td><td> Joshua Mack</td><td>Estimating the Annual Number of Humans Infected with Highly Pathogenic Avian Influenza Viruses from Historical Pandemic Rates</td></tr>
+    <tr><td>10.10-  </td><td> Wentao Meng</td><td>Optimal control in a multi-structured model with imperfect vaccination</td></tr>
+<tr><td colspan="3"><hr></td></tr>
+  <tr><td>10.25-  </td><td></td><td> 5 min break</td></tr>
+<tr><td colspan="3"><hr></td></tr>
+  <tr><td>10.30-  </td><td> Dandan Hu</td><td>Dynamical analysis in a nonlocal delayed reaction–diffusion tumor model with therapy</td></tr>
+  <tr><td>10.45-  </td><td> Sumit Jyoti</td><td>Harnessing publicly available salmon data through epidemiological and statistical tools</td></tr>
+  <tr><td>11.00-  </td><td> Abdelmonem Mohamed</td><td>Control and mitigation of infectious salmon anaemia virus in farmed Atlantic salmon: results from a scoping review</td></tr>
+  <tr><td>11.15-  </td><td> Ahsan Raquib</td><td>Space–time clustering and multiple-membership survival analysis of time to first detection of infectious salmon anemia virus in Atlantic salmon farms</td></tr>
+  <tr><td colspan="3"><hr></td></tr>
+  <tr><td>11.30-  </td><td></td><td> 5 min break</td></tr>
+  <tr><td colspan="3"><hr></td></tr>
+  <tr><td>11.35-  </td><td> Thu Nguyen</td><td>Sparse Bayesian Random Feature Models for Delay-Embedded Time Series in Epidemiology</td></tr>
+  <tr><td>11.50-  </td><td> Jingyu Li</td><td>Computationally Efficient Bayesian Inference for Change Points Detection in Infectious Disease Model</td></tr>
+  <tr><td> 12.05-  </td><td> Michael WZ Li</td><td>The need to continue what we started -- Evergreen problems post COVID-19 pandemic</td></tr>
+<tr><td colspan="3"><hr></td></tr>
+<tr><td> 12.20-  </td><td></td><td> 10 min break</td></tr>
+<tr><td colspan="3"><hr></td></tr>
+<tr><td> 12.30-  </td><td> Keynote</td><td>  A separate link was provided over email </td></tr>
+</table>
+
+## Keynote
+
+**Modelling to support public health decisions**
+
+Nicholas Ogden, 12.30-1.30pm
+
+The COVID-19 pandemic served as a catalyst for the development and use of infectious disease modelling to support public health decisions in Canada. In a post-pandemic environment, modelling has now become established as a key public health function. In this talk I will discuss the range of uses and applications for modelling in public health decision-making, as well as considerations of model complexity, realism, uncertainty, communication, and skillset and data needs.

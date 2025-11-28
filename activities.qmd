@@ -8,7 +8,7 @@ title: "Activities"
 - Meeting to be held at Memorial University.
 
 ## December 2025
--  ACCDMi symposium (online) to be held on Wednesday December 10. Please email your talk titles to Francis Anokye by Friday November 21.
+-  ACCDMi symposium (online) to be held on Wednesday December 10. Details [here](https://ahurford.github.io/accdmi-website/dec-symposium.html)
 
 ## November 2025
 - [ACCDMi newsletter](https://ahurford.github.io/accdmi-website/nov-2025-newsletter.html)
