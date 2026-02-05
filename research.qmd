@@ -7,15 +7,19 @@ ACCDMi researchers use data science, applied mathematics, and statistics to adva
 ### 1. ONE Health and zoonotic infections (Led by Dr. Javier Sanchez)
 Projects: Avian influenza models, spillover risk, amphibian disease ecology.
 
-- Baafi, J. and A. Hurford. [Effect of Climate Warming on Mosquito Population Dynamics in Newfoundland](https://www.biorxiv.org/content/10.1101/2025.09.07.674692v1). Under review at the Bulletin of Mathematical Biology.
+- Baafi, J. and A. Hurford. [Effect of Climate Warming on Mosquito Population Dynamics in Newfoundland](https://www.biorxiv.org/content/10.1101/2025.09.07.674692v1). Under review.
+
+- Mack, J., M. WZ Li and A. Hurford. [Using an evolutionary epidemiological model of pandemics to estimate the infection fatality ratio for humans infected with avian influenza viruses](https://www.medrxiv.org/content/10.64898/2026.01.21.26344526v1). Under review.
 
 ### 2. Stochastic modelling, epidemic forecasting, and small jurisdictions (Led by Dr. Edward Susko)
 Projects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions. 
 
-- Anokye, F., M. WZ Li, S. Walker, and A. Hurford. [Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada](https://www.medrxiv.org/content/10.1101/2025.09.26.25336738v1). Under review at PLoS Computational Biology.
+- Anokye, F., M. WZ Li, S. Walker, and A. Hurford. [Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada](https://www.medrxiv.org/content/10.1101/2025.09.26.25336738v1). Under review.
 
 ### 3. Dynamical systems and control in disease ecology
-Projects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.  
+Projects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.
+
+- Plank, M.,... A. Hurford.. [Joint economic and epidemiological modelling of alternative pandemic response strategies.](https://arxiv.org/abs/2512.08355) Under review.
 
 ### 4. Modelling education (Led by Dr. Amy Hurford)
 Projects: Online outreach resources, local outreach events, and training workshops.  

@@ -39,7 +39,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "ACCDMi researchers use data science, applied mathematics, and statistics to advance disease ecology modelling.\n\n1. ONE Health and zoonotic infections (Led by Dr. Javier Sanchez)\nProjects: Avian influenza models, spillover risk, amphibian disease ecology.\n\nBaafi, J. and A. Hurford. Effect of Climate Warming on Mosquito Population Dynamics in Newfoundland. Under review at the Bulletin of Mathematical Biology.\n\n\n\n2. Stochastic modelling, epidemic forecasting, and small jurisdictions (Led by Dr. Edward Susko)\nProjects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions.\n\nAnokye, F., M. WZ Li, S. Walker, and A. Hurford. Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada. Under review at PLoS Computational Biology.\n\n\n\n3. Dynamical systems and control in disease ecology\nProjects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.\n\n\n4. Modelling education (Led by Dr. Amy Hurford)\nProjects: Online outreach resources, local outreach events, and training workshops."
+    "text": "ACCDMi researchers use data science, applied mathematics, and statistics to advance disease ecology modelling.\n\n1. ONE Health and zoonotic infections (Led by Dr. Javier Sanchez)\nProjects: Avian influenza models, spillover risk, amphibian disease ecology.\n\nBaafi, J. and A. Hurford. Effect of Climate Warming on Mosquito Population Dynamics in Newfoundland. Under review.\nMack, J., M. WZ Li and A. Hurford. Using an evolutionary epidemiological model of pandemics to estimate the infection fatality ratio for humans infected with avian influenza viruses. Under review.\n\n\n\n2. Stochastic modelling, epidemic forecasting, and small jurisdictions (Led by Dr. Edward Susko)\nProjects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions.\n\nAnokye, F., M. WZ Li, S. Walker, and A. Hurford. Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada. Under review.\n\n\n\n3. Dynamical systems and control in disease ecology\nProjects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.\n\nPlank, M.,… A. Hurford.. Joint economic and epidemiological modelling of alternative pandemic response strategies. Under review.\n\n\n\n4. Modelling education (Led by Dr. Amy Hurford)\nProjects: Online outreach resources, local outreach events, and training workshops."
   },
   {
     "objectID": "research.html#theme-1.-one-health-and-zoonotic-infections",
@@ -306,5 +306,26 @@
     "title": "ACCDMi Symposium",
     "section": "",
     "text": "Date: Wednesday December 10\nLocation: A-1043 (Memorial University) and online (email ahurford@mun.ca for the link)\nTimes refer to Newfoundland (which is a time zone that is 30 mins offset from most places)."
+  },
+  {
+    "objectID": "feb-2026-newsletter.html",
+    "href": "feb-2026-newsletter.html",
+    "title": "ACCDMi Newsletter - February 2026",
+    "section": "",
+    "text": "The ACCDMi symposium in December 2025 was highly successful. We had 12 speakers and the schedule is still available here if you would like to remember what work ACCDMi members are doing. Thanks to everyone who participated and special thanks to Dr. Nicholas Ogden (Public Health Agency of Canada) for his keynote presentation.\nACCDMi members should have received an email regarding the ACCDMi journal club. If you would like to suggest a reading, please do so on the google link. The aim of the journal club is to build our shared interests for a productive in-person meeting in the summer of 2026 (to be held in St. John’s, NL). Once we have identified the readings we are most interested in, we will schedule a hybrid meeting for the first journal club meeting.\nACCDMi has a logo! Please use the logo for your ACCDMi-related presentations.\nWe have some preprints/publications in the last couple of months, which have been added to the website. If you have any ACCDMi-related publications, I would like to list these on the website. Please email Amy Hurford with information on any relevant publications.\n\nThanks again for your support of ACCDMi!"
+  },
+  {
+    "objectID": "activities.html#february-2026",
+    "href": "activities.html#february-2026",
+    "title": "Activities",
+    "section": "February 2026",
+    "text": "February 2026\n\nACCDMi newsletter"
+  },
+  {
+    "objectID": "activities.html#january-2026",
+    "href": "activities.html#january-2026",
+    "title": "Activities",
+    "section": "January 2026",
+    "text": "January 2026\n\nA. Hurford gave presentations at U Montreal (St. Hyacinthye)/PHAC (&gt; 40 participants including virtual audience), York University, and McMaster University."
   }
 ]
