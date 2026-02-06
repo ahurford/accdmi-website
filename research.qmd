@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-test
-
 ACCDMi researchers use data science, applied mathematics, and statistics to advance disease ecology modelling.  
 
 ### 1. ONE Health and zoonotic infections (Led by Dr. Javier Sanchez)
