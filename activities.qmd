@@ -7,8 +7,12 @@ title: "Activities"
 ## August 2026
 - Meeting to be held at Memorial University.
 
+## March 2025
+- We are running the [macpan2 calibration working group](https://github.com/ahurford/macpan2-calibration-working-group/blob/main/README.md) on Wed March 4 and 11. Please email Amy Hurford if you would like to participate.
+
 ## February 2026
 - [ACCDMi newsletter](https://ahurford.github.io/accdmi-website/feb-2026-newsletter.html)
+- Congratulations to ACCDMi trainee [Dr. Joseph Baafi](https://github.com/jbaafi) for completing his PhD Biology on _Modelling the Impact of Seasonality and Climate Warming on Mosquito Population Dynamics: Insights for Vector Control Strategies_ at Memorial University. Congrats Joseph!
 
 ## January 2026
 - A. Hurford gave presentations at U Montreal (St. Hyacinthye)/PHAC (> 40 participants including virtual audience), York University, and McMaster University.

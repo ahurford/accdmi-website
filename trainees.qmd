@@ -213,11 +213,10 @@ My project develops and analyzes age-structured and dose-structured mathematical
 }
 </style>
 
-Other scholarship recipients are to be announced after they provide the requested information.
 
 ## Other ACCDMi trainees
 
-- [**Joseph Baafi**](https://jbaafi.github.io/joseph.baafi/). Memorial University. _Infectious disease, ecological modelling._
+- [**Joseph Baafi**](https://jbaafi.github.io/joseph.baafi/). Memorial University. _Infectious disease, ecological modelling._ (completed in Feb 2026).
 
 - **Abdou Fofana**. Memorial University. _Infectious disease modelling, covid-19._
 
@@ -228,3 +227,9 @@ Other scholarship recipients are to be announced after they provide the requeste
 - **Huan Yang**. University of New Brunswick. _Infectious disease modelling, covid-19._
 
 - **Luyao Zhao**. University of New Brunswick. _Infectious disease modelling, covid-19._
+
+- **Giuseppe Pasqualino**. Memorial University. _Modelling avian influenza._
+
+- **Binod Shrestha**. Memorial University. _Data science._
+
+- **Megan Luscombe**. Memorial University. _Data science._
