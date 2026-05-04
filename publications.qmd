@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-- Anokye, F., M. WZ Li, S. Walker, and A. Hurford. [Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada](https://www.medrxiv.org/content/10.1101/2025.09.26.25336738v1). Under review at PLoS Computational Biology.
+- Anokye, F., M. WZ Li, S. Walker, and A. Hurford. 2026 [Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada](https://doi.org/10.1371/journal.pcbi.1013562).PLoS Computational Biology.
 
 - Baafi, J. and A. Hurford. [Effect of Climate Warming on Mosquito Population Dynamics in Newfoundland](https://www.biorxiv.org/content/10.1101/2025.09.07.674692v1). Under review at the Bulletin of Mathematical Biology.
 
