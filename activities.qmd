@@ -7,7 +7,7 @@ title: "Activities"
 ## August 2026
 - Meeting to be held at Memorial University.
 
-## May 20226
+## May 2026
 - [ACCDMi newsletter](https://ahurford.github.io/accdmi-website/may-2026-newsletter.html)
 - A. Hurford visited M. Plank at the University of Canterbury in April.
 - New publication: Anokye, F., M. WZ Li, S. Walker, and A. Hurford. 2026 [Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada](https://doi.org/10.1371/journal.pcbi.1013562).PLoS Computational Biology.
