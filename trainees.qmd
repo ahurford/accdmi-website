@@ -229,5 +229,3 @@ My project develops and analyzes age-structured and dose-structured mathematical
 - **Luyao Zhao**. University of New Brunswick. _Infectious disease modelling, covid-19._
 
 - **Binod Shrestha**. Memorial University. _Data science._
-
-- **Megan Luscombe**. Memorial University. _Data science._

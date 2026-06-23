@@ -7,6 +7,10 @@ title: "Activities"
 ## August 2026
 - Meeting to be held at Memorial University.
 
+## June 2026
+- We have continued to meet for the journal club. Please see the [ACCDMi-tools](https://github.com/ahurford/ACCDMi-tools/tree/main) repository.
+- A. Hurford gave the Blundon Seminar and a Plenary lecture at the [Canadian Undergraduate Mathematics Conference](https://math.mcmaster.ca/6340-2/). These activities are related to the Modelling education theme. 
+
 ## May 2026
 - [ACCDMi newsletter](https://ahurford.github.io/accdmi-website/may-2026-newsletter.html)
 - A. Hurford visited M. Plank at the University of Canterbury in April.
