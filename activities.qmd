@@ -4,7 +4,7 @@ title: "Activities"
 
 
 ## July 2026
-- In-person meeting to be held at Memorial University, July 27-29.
+- In-person meeting to be held at Memorial University, July 27-29. [Details here](https://ahurford.github.io/accdmi-website/july-in-person.html)
 
 ## June 2026
 - We have continued to meet for the journal club. Please see the [ACCDMi-tools](https://github.com/ahurford/ACCDMi-tools/tree/main) repository.

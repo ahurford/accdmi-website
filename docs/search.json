@@ -74,7 +74,7 @@
     "href": "activities.html",
     "title": "Activities",
     "section": "",
-    "text": "In-person meeting to be held at Memorial University, July 27-29."
+    "text": "In-person meeting to be held at Memorial University, July 27-29. Details here"
   },
   {
     "objectID": "logo-app.html",
@@ -368,6 +368,55 @@
     "href": "activities.html#july-2026",
     "title": "Activities",
     "section": "",
-    "text": "In-person meeting to be held at Memorial University, July 27-29."
+    "text": "In-person meeting to be held at Memorial University, July 27-29. Details here"
+  },
+  {
+    "objectID": "july-in-person.html",
+    "href": "july-in-person.html",
+    "title": "ACCDMi in-person meeting",
+    "section": "",
+    "text": "Date: Monday July 27 - Wednesday July 29.\nLocation: Memorial University and online (email ahurford@mun.ca for details)\nTimes refer to Newfoundland (which is a time zone that is 30 mins offset from most places)."
+  },
+  {
+    "objectID": "july-in-person.html#details",
+    "href": "july-in-person.html#details",
+    "title": "ACCDMi in-person meeting",
+    "section": "",
+    "text": "Date: Monday July 27 - Wednesday July 29.\nLocation: Memorial University and online (email ahurford@mun.ca for details)\nTimes refer to Newfoundland (which is a time zone that is 30 mins offset from most places)."
+  },
+  {
+    "objectID": "july-in-person.html#participants",
+    "href": "july-in-person.html#participants",
+    "title": "ACCDMi in-person meeting",
+    "section": "Participants",
+    "text": "Participants\n\nOn site\n\n\n\n\nSumit Jyoti\n\n\nAhsan Raquib\n\n\nBinod Shrestha\n\n\n\n\nJames Watmough (?)\n\n\nAbdou Fofana\n\n\nMaheru Rahman\n\n\n\n\nChunhua Ou\n\n\nJingyu Li\n\n\nAbdelmonem Mohamed (?)\n\n\n\n\nDanhan Hu\n\n\nYuan Yuan\n\n\nFrancis Anokye\n\n\n\n\nJC Loredo-Osti\n\n\nAmy Hurford\n\n\n\n\n\n\n\nOnline\nEdward Susko"
+  },
+  {
+    "objectID": "july-in-person.html#schedule",
+    "href": "july-in-person.html#schedule",
+    "title": "ACCDMi in-person meeting",
+    "section": "Schedule",
+    "text": "Schedule\nActivites will be populated into the schedule\n\n\n\nTime\n\n\nSpeaker\n\n\nTitle\n\n\n\n\nPlaceholder 1\n\n\nPlaceholder 1\n\n\nPlaceholder 1\n\n\n\n\nPlaceholder 2\n\n\nPlaceholder 2\n\n\nPlaceholder 2"
+  },
+  {
+    "objectID": "july-in-person.html#activities",
+    "href": "july-in-person.html#activities",
+    "title": "ACCDMi in-person meeting",
+    "section": "Activities",
+    "text": "Activities\nPrincipal investigators have status to be participants on grants. Postdoctoral fellows can choose to work in either group.\n\nPrincipal investigator activities\n\nReview website for missing deliverables that have been completed in year 1.\n\n\n\nTrainee activities\n\nBegin the R coding of an online Modelling education website that can host videos and administer quizzes hosted on github."
+  },
+  {
+    "objectID": "july-in-person.html#objectives",
+    "href": "july-in-person.html#objectives",
+    "title": "ACCDMi in-person meeting",
+    "section": "Objectives",
+    "text": "Objectives"
+  },
+  {
+    "objectID": "july-in-person.html#meeting-activities",
+    "href": "july-in-person.html#meeting-activities",
+    "title": "ACCDMi in-person meeting",
+    "section": "Meeting activities",
+    "text": "Meeting activities\nTo begin each day Amy Hurford will give a 30 minute overview of what we hope to achieve during the in-person meeting/topics we should learn more about. The meeting with be a combination of talks, small group collaborative activities, and talks reporting back the work completed in small groups.\n\nTalks\nAll participants are invited to give a 5-10 min lightening talk about their research to introduce themselves to the group. This will be scheduled for all the participants listed above unless you email Amy Hurford to indicate you would like to opt out. You we welcome to use slides or not.\nAnyone who has research/expertise that is valuable to ACCDMi’s future directions is welcome to give a 30 minute talk on this. As an example, Abdou Fofana could give a talk on AI4PH and its relevancy for ACCDMi’s future directions. Please email Amy Hurford if you are willing to give a 30 min research talk during the meeting.\n\n\nSmall group collaborations\nSmall group collaborations will occur in parallel and you can choose to work on the activities that you fit your interests. There will be documents on the Google drive where the small groups should document their work (link will be shared by email only). Small groups can set up video-conferencing on their own to facilitate collaboration with off-site participants.\nThe activities below are divided into principal investigators and trainees. Principal investigators are faculty who have status to be participants on grants. Postdoctoral fellows can choose to work with the Principal investigator or trainee group.\n\n\nPrincipal investigator activities\n\nReview website for missing deliverables that have been completed in year 1.\nDefine directions of ACCDMi for year 2.\nWork on any of the 4 grant proposals that ACCDMi is submitting in the next 2 months.\n\n\n\nTrainee activities\n\nCompile an annotated bibliography of references that can be used to cite the value of ACCDMi or should be read by ACCDMi to advance our research.\nBegin the R coding of an online Modelling education website that can host videos and administer quizzes hosted on github.\nWork on the SGNN or other figures that are appropriate for grants.\nCompile data that could be used to make graphs for use in grants.\nEstablish a collaborative project with another group member."
   }
 ]

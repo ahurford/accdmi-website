@@ -1,0 +1,69 @@
+---
+title: "ACCDMi in-person meeting"
+---
+
+## Details
+
+Date: Monday July 27 - Wednesday July 29.
+
+Location: Memorial University and online (email ahurford@mun.ca for details)
+
+Times refer to Newfoundland (which is a time zone that is 30 mins offset from most places).
+
+## Participants
+### On site
+<style>
+  th, td {
+    padding: 15px; /* Adjust this number to add more or less space */
+    text-align: left; /* Optional: aligns text nicely */
+  }
+</style>
+
+
+<table>
+  <tr><td>Sumit Jyoti</td><td>Ahsan Raquib</td><td>Binod Shrestha</td></tr>
+  <tr><td> James Watmough (?)   </td><td> Abdou Fofana </td><td> Maheru Rahman </td></tr>
+  <tr><td> Chunhua Ou  </td><td> Jingyu Li </td><td> Abdelmonem Mohamed (?) </td></tr>
+  <tr><td> Danhan Hu  </td><td> Yuan Yuan </td><td> Francis Anokye </td></tr>
+  <tr><td> JC Loredo-Osti   </td><td> Amy Hurford </td><td>  </td></tr>
+</table>
+
+### Online
+Edward Susko
+
+## Meeting activities
+
+To begin each day Amy Hurford will give a 30 minute overview of what we hope to achieve during the in-person meeting/topics we should learn more about. The meeting with be a combination of talks, small group collaborative activities, and talks reporting back the work completed in small groups.  
+
+### Talks
+
+All participants are invited to give a 5-10 min _lightening talk_ about their research to introduce themselves to the group. This will be scheduled for all the participants listed above unless you email Amy Hurford to indicate you would like to opt out. You we welcome to use slides or not.
+
+Anyone who has research/expertise that is valuable to ACCDMi's future directions is welcome to give a 30 minute talk on this. As an example, Abdou Fofana could give a talk on AI4PH and its relevancy for ACCDMi's future directions. Please email Amy Hurford if you are willing to give a 30 min research talk during the meeting.
+
+### Small group collaborations
+
+Small group collaborations will occur in parallel and you can choose to work on the activities that you fit your interests. There will be documents on the Google drive where the small groups should document their work (link will be shared by email only). Small groups can set up video-conferencing on their own to facilitate collaboration with off-site participants.
+
+The activities below are divided into principal investigators and trainees. Principal investigators are faculty who have status to be participants on grants. Postdoctoral fellows can choose to work with the Principal investigator or trainee group.
+
+### Principal investigator activities
+1. Review website for missing deliverables that have been completed in year 1.
+1. Define directions of ACCDMi for year 2.
+1. Work on any of the 4 grant proposals that ACCDMi is submitting in the next 2 months.
+
+### Trainee activities
+1. Compile an annotated bibliography of references that can be used to cite the value of ACCDMi or should be read by ACCDMi to advance our research.
+1. Begin the R coding of an online Modelling education website that can host videos and administer quizzes hosted on github.
+1. Work on the SGNN or other figures that are appropriate for grants.
+1. Compile data that could be used to make graphs for use in grants.
+1. Establish a collaborative project with another group member.
+
+## Schedule
+Activites will be populated into the schedule
+
+<table>
+  <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
+  <tr><td> Placeholder 1 </td><td> Placeholder 1 </td><td> Placeholder 1 </td></tr>
+  <tr><td> Placeholder 2  </td><td> Placeholder 2 </td><td> Placeholder 2 </td></tr>
+</table>
