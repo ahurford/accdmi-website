@@ -1,11 +1,10 @@
 ---
 title: "Activities"
 ---
-## August 2027
-- AARMS Summer school.
 
-## August 2026
-- Meeting to be held at Memorial University.
+
+## July 2026
+- In-person meeting to be held at Memorial University, July 27-29.
 
 ## June 2026
 - We have continued to meet for the journal club. Please see the [ACCDMi-tools](https://github.com/ahurford/ACCDMi-tools/tree/main) repository.

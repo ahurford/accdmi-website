@@ -4,8 +4,6 @@ title: "Research"
 
 ACCDMi researchers use data science, applied mathematics, and statistics to advance disease ecology modelling.
 
-Here is the link to the [ACCDMi-tools](https://github.com/ahurford/ACCDMi-tools/tree/main) Github repository.
-
 ### 1. ONE Health and zoonotic infections (Led by Dr. Javier Sanchez)
 Projects: Avian influenza models, spillover risk, amphibian disease ecology.
 
@@ -18,10 +16,18 @@ Projects: Inference for stochastic models, epidemic forecasting, spatial-tempora
 
 - Anokye, F., M. WZ Li, S. Walker, and A. Hurford. [Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada](https://www.medrxiv.org/content/10.1101/2025.09.26.25336738v1). Under review.
 
+- [ACCDMi-tools](https://github.com/ahurford/ACCDMi-tools/tree/main) is a Github repository that advances the Simulation-Grounded Neural Network approach for forecasting. This work is lead by Binod Shrestha.
+
+- Fofana A., ..., J. Arino, J. Watmough, M. Li, and A. Hurford. _Building infectious disease modelling capacity to support small jurisdictions and communities in Canada_. In prep.
+
 ### 3. Dynamical systems and control in disease ecology
 Projects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.
 
 - Plank, M.,... A. Hurford.. [Joint economic and epidemiological modelling of alternative pandemic response strategies.](https://arxiv.org/abs/2512.08355) Under review.
 
 ### 4. Modelling education (Led by Dr. Amy Hurford)
-Projects: Online outreach resources, local outreach events, and training workshops.  
+Projects: Online outreach resources, local outreach events, and training workshops.
+
+- A. Hurford. _What is mathematical modelling? And how to be great at it._ Blundon Seminar, Memorial University. May 21, 2026. Audience: ~30 high school students with aptitude and interest in mathematics.
+
+- A. Hurford. _What is mathematical modelling? And how to be great at it._ Plenary lecture, Canadian Undergraduate Mathematics Conference, McMaster University. Audience ~40 conference participants. June 25, 2026.
