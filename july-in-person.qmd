@@ -25,7 +25,7 @@ We will first meet in the Cater Andrews, CSF 2342. This is on the second floor t
   <tr><td> James Watmough (?)   </td><td> Abdou Fofana </td><td> Maheru Rahman </td></tr>
   <tr><td> Chunhua Ou  </td><td> Jingyu Li </td><td> Abdelmonem Mohamed (?) </td></tr>
   <tr><td> Danhan Hu  </td><td> Yuan Yuan </td><td> Francis Anokye </td></tr>
-  <tr><td> JC Loredo-Osti   </td><td> Amy Hurford </td><td>  </td></tr>
+  <tr><td> JC Loredo-Osti   </td><td> Amy Hurford </td><td> Joshua Mack  </td></tr>
 </table>
 
 ### Online
