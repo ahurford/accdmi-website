@@ -23,13 +23,15 @@ We will first meet in the Cater Andrews, CSF 2342. This is on the second floor t
 <table>
   <tr><td>Sumit Jyoti</td><td>Ahsan Raquib</td><td>Binod Shrestha</td></tr>
   <tr><td> James Watmough (?)   </td><td> Abdou Fofana </td><td> Maheru Rahman </td></tr>
-  <tr><td> Chunhua Ou  </td><td> Jingyu Li </td><td> Abdelmonem Mohamed (?) </td></tr>
+  <tr><td> Chunhua Ou  </td><td> Jingyu Li </td><td> Joshua Mack </td></tr>
   <tr><td> Danhan Hu  </td><td> Yuan Yuan </td><td> Francis Anokye </td></tr>
-  <tr><td> JC Loredo-Osti   </td><td> Amy Hurford </td><td> Joshua Mack  </td></tr>
-</table>
+  <tr><td> JC Loredo-Osti   </td><td> Amy Hurford </td><td>  </td></tr>
+
 
 ### Online
-Edward Susko
+<table>
+  <tr><td>Edward Susko</td><td>Abdelmonem Mohamed</td><td>Guanjie Lyu</td></tr>
+</table>
 
 ## Meeting activities
 
