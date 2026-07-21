@@ -16,6 +16,12 @@ Projects: Inference for stochastic models, epidemic forecasting, spatial-tempora
 
 - Anokye, F., M. WZ Li, S. Walker, and A. Hurford. [Quantifying SARS-CoV-2 Omicron variant spread and the impact of non-pharmaceutical interventions in Newfoundland and Labrador, Canada](https://www.medrxiv.org/content/10.1101/2025.09.26.25336738v1). Under review.
 
+- Li, J., Ho, L.S.T. and Susko, E. (2026). [Exploring the Impact of Bubble Strategies on the Spread of Infectious Diseases](https://doi.org/10.1080/03610918.2026.2618490)
+Communications in Statistics - Simulation and Computation.
+
+- Li, J. Efficient Bayesian Inference for Change Points Detection in Infectious Disease Models. Fourteenth Annual Canadian Statistics Student Conference. Statistical Society of Canada. Hamilton, Ontario, May 30, 2026. 
+
+
 - [ACCDMi-tools](https://github.com/ahurford/ACCDMi-tools/tree/main) is a Github repository that advances the Simulation-Grounded Neural Network approach for forecasting. This work is lead by Binod Shrestha.
 
 - Fofana A., ..., J. Arino, J. Watmough, M. Li, and A. Hurford. _Building infectious disease modelling capacity to support small jurisdictions and communities in Canada_. In prep.
