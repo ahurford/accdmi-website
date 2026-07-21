@@ -5,10 +5,12 @@ title: "Activities"
 
 ## July 2026
 - In-person meeting to be held at Memorial University, July 27-29. [Details here](https://ahurford.github.io/accdmi-website/july-in-person.html)
+- Julien Arino gave an online talk: _Modelling case introductions_ on July 9.
 
 ## June 2026
 - We have continued to meet for the journal club. Please see the [ACCDMi-tools](https://github.com/ahurford/ACCDMi-tools/tree/main) repository.
 - A. Hurford gave the Blundon Seminar and a Plenary lecture at the [Canadian Undergraduate Mathematics Conference](https://math.mcmaster.ca/6340-2/). These activities are related to the Modelling education theme. 
+
 
 ## May 2026
 - [ACCDMi newsletter](https://ahurford.github.io/accdmi-website/may-2026-newsletter.html)
