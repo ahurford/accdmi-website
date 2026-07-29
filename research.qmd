@@ -11,6 +11,10 @@ Projects: Avian influenza models, spillover risk, amphibian disease ecology.
 
 - Mack, J., M. WZ Li and A. Hurford. [Using an evolutionary epidemiological model of pandemics to estimate the infection fatality ratio for humans infected with avian influenza viruses](https://www.medrxiv.org/content/10.64898/2026.01.21.26344526v1). Under review.
 
+- Lyu, G. and C. Feng. _Joint Copula-Based Beta Regression with Covariate-Dependent Dispersion for Malaria Indicators._ Accepted at the Canadian Journal of Statistics.
+
+- Fofana, A. _When the data hides the gaps: A joint ML-learning framework that turns missing data into an outbreak signal._ AI4PH Summer institute. July, 2026. Montreal, Canada.
+
 ### 2. Stochastic modelling, epidemic forecasting, and small jurisdictions (Led by Dr. Edward Susko)
 Projects: Inference for stochastic models, epidemic forecasting, spatial-temporal risk in small communities, outbreak modelling, stochastic control, and advocacy for small jurisdictions. 
 
@@ -19,8 +23,7 @@ Projects: Inference for stochastic models, epidemic forecasting, spatial-tempora
 - Li, J., Ho, L.S.T. and Susko, E. (2026). [Exploring the Impact of Bubble Strategies on the Spread of Infectious Diseases](https://doi.org/10.1080/03610918.2026.2618490)
 Communications in Statistics - Simulation and Computation.
 
-- Li, J. Efficient Bayesian Inference for Change Points Detection in Infectious Disease Models. Fourteenth Annual Canadian Statistics Student Conference. Statistical Society of Canada. Hamilton, Ontario, May 30, 2026. 
-
+- Li, J. _Efficient Bayesian Inference for Change Points Detection in Infectious Disease Models. Fourteenth Annual Canadian Statistics Student Conference._ Statistical Society of Canada. Hamilton, Ontario, May 30, 2026. 
 
 - [ACCDMi-tools](https://github.com/ahurford/ACCDMi-tools/tree/main) is a Github repository that advances the Simulation-Grounded Neural Network approach for forecasting. This work is lead by Binod Shrestha.
 
@@ -29,7 +32,11 @@ Communications in Statistics - Simulation and Computation.
 ### 3. Dynamical systems and control in disease ecology
 Projects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.
 
-- Plank, M.,... A. Hurford.. [Joint economic and epidemiological modelling of alternative pandemic response strategies.](https://arxiv.org/abs/2512.08355) Under review.
+- Plank, M.,... A. Hurford.. [Joint economic and epidemiological modelling of alternative pandemic response strategies.](https://arxiv.org/abs/2512.08355). In press at the J of Roy Soc Interface.
+
+- Hu, D. and Y. Yuan. 2026. _Dynamical analysis in a nonlocal delayed reaction-diffusion tumor model with therapy._ Journal of Mathematical Analysis and Applications. 563: 13082.
+
+- Hu, D. and Y. Yuan. 2025. _Threshold dynamics of an age-structured HIV model with virus-to-cell, cell-to-cell transmissions and CTL immune response._ Journal of Mathematical Biology. 92:13.
 
 ### 4. Modelling education (Led by Dr. Amy Hurford)
 Projects: Online outreach resources, local outreach events, and training workshops.
