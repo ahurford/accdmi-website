@@ -29,6 +29,8 @@ Communications in Statistics - Simulation and Computation.
 
 - Fofana A., ..., J. Arino, J. Watmough, M. Li, and A. Hurford. _Building infectious disease modelling capacity to support small jurisdictions and communities in Canada_. In prep.
 
+- Nguyen, T. and L.S.T. Ho. rfBLT: _Random Feature Bayesian Lasso Takens Model for time series forecasting._ Under Review.
+
 ### 3. Dynamical systems and control in disease ecology
 Projects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.
 
