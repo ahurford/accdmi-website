@@ -34,7 +34,7 @@ Communications in Statistics - Simulation and Computation.
 ### 3. Dynamical systems and control in disease ecology
 Projects: Hybrid dispersal models, imperfect vaccination, tumour models with therapy, seasonality and dispersal, and optimal control strategies.
 
-- Plank, M.,... A. Hurford.. [Joint economic and epidemiological modelling of alternative pandemic response strategies.](https://arxiv.org/abs/2512.08355). In press at the J of Roy Soc Interface.
+- Plank, M.,... A. Hurford.. [Joint economic and epidemiological modelling of alternative pandemic response strategies.](https://arxiv.org/abs/2512.08355). 
 
 - Hu, D. and Y. Yuan. 2026. _Dynamical analysis in a nonlocal delayed reaction-diffusion tumor model with therapy._ Journal of Mathematical Analysis and Applications. 563: 13082.
 
