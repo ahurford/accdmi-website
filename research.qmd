@@ -46,3 +46,5 @@ Projects: Online outreach resources, local outreach events, and training worksho
 - A. Hurford. _What is mathematical modelling? And how to be great at it._ Blundon Seminar, Memorial University. May 21, 2026. Audience: ~30 high school students with aptitude and interest in mathematics.
 
 - A. Hurford. _What is mathematical modelling? And how to be great at it._ Plenary lecture, Canadian Undergraduate Mathematics Conference, McMaster University. Audience ~40 conference participants. June 25, 2026.
+
+\
